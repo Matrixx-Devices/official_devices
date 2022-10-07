@@ -37,7 +37,11 @@ Insert here
 Insert here
 ```
 
-## Do you build locally or rely on server if so what cloud service provider do you use ?
+## Do you build locally or rely on server if server what cloud service provider do you use ?
+```
+Insert here
+```
+## Free trial user or paid user?
 ```
 Insert here
 ```
