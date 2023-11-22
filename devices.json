@@ -26,6 +26,15 @@
             "maintainer_name": "mukesh22584",
             "frame": null,
             "active": true
+        },
+        {
+            "codename": "bladerunner",
+            "codename_alt": "bladerunner",
+            "vendor": "Realme",
+            "model": "Realme X50 Pro/Player 5G",
+            "maintainer_name": "AAMIR ALI",
+            "frame": null,
+            "active": true
         }
     ]
 }
