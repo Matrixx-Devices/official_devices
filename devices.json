@@ -1,0 +1,22 @@
+{
+    "devices": [
+        {
+            "codename": "lemonadep",
+            "codename_alt": "lemonadep",
+            "vendor": "OnePlus",
+            "model": "OnePlus 9 Pro",
+            "maintainer_name": "mukesh22584",
+            "frame": null,
+            "active": true
+        },
+        {
+            "codename": "lemonade",
+            "codename_alt": "lemonade",
+            "vendor": "OnePlus",
+            "model": "OnePlus 9",
+            "maintainer_name": "mukesh22584",
+            "frame": null,
+            "active": true
+        }
+    ]
+}
