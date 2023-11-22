@@ -17,6 +17,15 @@
             "maintainer_name": "mukesh22584",
             "frame": null,
             "active": true
+        },
+        {
+            "codename": "hotdog",
+            "codename_alt": "hotdogb",
+            "vendor": "OnePlus",
+            "model": "OnePlus 7T",
+            "maintainer_name": "mukesh22584",
+            "frame": null,
+            "active": true
         }
     ]
 }
