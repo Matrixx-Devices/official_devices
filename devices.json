@@ -35,6 +35,15 @@
             "maintainer_name": "AAMIR ALI",
             "frame": null,
             "active": true
+        },
+        {
+            "codename": "marble",
+            "codename_alt": "marblein",
+            "vendor": "Xiaomi",
+            "model": "Poco F5/Redmi Note 12 Turbo",
+            "maintainer_name": "KSSRAO",
+            "frame": null,
+            "active": true
         }
     ]
 }

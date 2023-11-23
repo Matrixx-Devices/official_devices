@@ -1,0 +1,22 @@
+{
+    "maintainer": [
+        {
+            "display_name": "KSSRAO",
+            "telegram": "https://t.me/KSSRAO_Romverse",
+            "github": "https://github.com/kssrao13882"
+        }
+    ],
+    "beta": true,
+    "version": "fourteen",
+    "available_versions": [
+        "fourteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Poco F5/Redmi Note 12 Turbo",
+    "device_display_codename": "marble",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/marble/",
+    "last_updated": "17 November 2023",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}
