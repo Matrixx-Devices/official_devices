@@ -28,6 +28,15 @@
             "active": true
         },
         {
+            "codename": "whyred",
+            "codename_alt": "whyred",
+            "vendor": "Redmi",
+            "model": "Redmi Note 5 Pro",
+            "maintainer_name": "Arijit Saha",
+            "frame": null,
+            "active": true
+        },
+        {
             "codename": "bladerunner",
             "codename_alt": "bladerunner",
             "vendor": "Realme",
