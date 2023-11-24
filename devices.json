@@ -45,6 +45,15 @@
             "frame": null,
             "active": true
         },
+         {
+            "codename": "a70q",
+            "codename_alt": "a70q",
+            "vendor": "Samsung",
+            "model": "Samsung Galaxy a70",
+            "maintainer_name": "DynamicPanda",
+            "frame": null,
+            "active": true
+        },
         {
             "codename": "marble",
             "codename_alt": "marblein",
