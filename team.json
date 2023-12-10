@@ -31,6 +31,14 @@
             "XDA": "https://xdaforums.com/m/kssrao13882.11649931/",
             "role": "marble Maintainer",
             "tagline": ""
-        }
+        },
+        {
+            "name": "Roxor-007",
+            "github": "Roxor-007",
+            "telegram": "Roxor007",
+            "XDA": "https://xdaforums.com/m/0_roxor_0.7090065/",
+            "role": "alioth Maintainer",
+            "tagline": ""
+        }             
     ]
 }

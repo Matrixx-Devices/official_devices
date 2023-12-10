@@ -62,6 +62,15 @@
             "maintainer_name": "KSSRAO",
             "frame": null,
             "active": true
-        }
+        },
+        {
+            "codename": "alioth",
+            "codename_alt": "aliothin",
+            "vendor": "Xiaomi",
+            "model": "POCO F3/K40/Mi 11X (alioth/aliothin)",
+            "maintainer_name": "Roxor-007",
+            "frame": null,
+            "active": true
+        }        
     ]
 }
