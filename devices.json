@@ -71,6 +71,15 @@
             "maintainer_name": "Roxor-007",
             "frame": null,
             "active": true
+        },
+        {
+            "codename": "redwood",
+            "codename_alt": "redwoodin",
+            "vendor": "Xiaomi",
+            "model": "POCO X5 Pro 5G/Redmi Note 12 Pro Speed (redwood)",
+            "maintainer_name": "PRIYANSHU",
+            "frame": null,
+            "active": true
         }        
     ]
 }
