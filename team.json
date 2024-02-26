@@ -9,6 +9,15 @@
       "role": "Core-Member and Maintainer",
 	    "devices": ["lemonade", "lemonadep", "hotdog", "hotdogb"],
       "tagline": ""
+    },
+    {
+    "name": "Mrick343",
+    "image": "https://avatars.githubusercontent.com/u/85066116?v=4",
+    "telegram": "Mrick343",
+    "XDA": "https://xdaforums.com/m/mrick343.12517809/",
+    "role": "Core-Member and Maintainer",
+    "devices": ["martini", "vayu"],
+    "tagline": "A lazy coder"
     }
  ]
 }
