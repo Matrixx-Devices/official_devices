@@ -1,9 +1,9 @@
 {
     "maintainer": [
         {
-            "display_name": "AswinOP",
-            "telegram": "",
-            "github": ""
+            "display_name": "Aswin OP",
+            "telegram": "https://t.me/iaswinop",
+            "github": "https://www.github.com/AswinOP"
         }
     ],
     "beta": true,
@@ -12,9 +12,9 @@
         "fourteen"
     ],
     "release": "monthly",
-    "device_display_name": "Redmi Note 11 Pro+ 5G / POCOX4 Pro 5G",
+    "device_display_name": "Redmi Note 11 Pro+ 5G / POCO X4 Pro 5G",
     "device_display_codename": "veux/peux",
-    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/veux/Matrixx-v10.3.0-Official-veux-Gapps-20240304.zip/download",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/veux/",
     "last_updated": "04 March 2024",
     "timestamp": 1709529169,
     "md5": "9a27a893b59c49090579f863e3d05058",
