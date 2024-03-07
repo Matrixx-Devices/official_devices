@@ -60,6 +60,15 @@
     "role": "Maintainer",
     "devices": ["violet", "gta4lwifi"],
     "tagline": "Coding curiosity into reality"
+    },
+    {
+    "name": "Pyrtle93",
+    "image": "https://avatars.githubusercontent.com/u/5258054?s=400&u=d8429a6741c3438f4b93f6983d3ec433a47b4264&v=4",
+     "telegram": "Pyrtle93",
+     "XDA": "https://xdaforums.com/t/rom-a14-pixel-7-series-matrixx-v10-3-0-gapps-03-05-2024.4654436/",
+     "role": "Maintainer",
+     "devices": ["cheetah", "panther", "lynx"],
+     "tagline": "The laziest coder of all time"
     }
  ]
 }
