@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+        "maintainer": "James_Cable",
+        "oem": "Samsung",
+        "device": "Galaxy Tab S6 Lite 2020",
+        "device_name": "Gta4xlwifi",
+        "filename": "Matrixx-v10.3.0-official-gta4xlwifi-Vanilla-20240303.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/gta4xlwifi/,
+        "timestamp": 1709481901,
+        "md5": "ae9e2816ea7fcfbb9503984bbbe058d6",
+        "size": 1052223952,
+        "version": "v10.3.0"
+        "xda" "https://xdaforums.com/t/a14-rom-project-matrixx-v10-3-gta4xlwifi-gta4xl-official-exynos.4659165/"
+    }
+  ]
+}
