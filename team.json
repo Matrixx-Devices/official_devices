@@ -2,7 +2,7 @@
   "team": [
     {
       "name": "Mukesh Singh",
-      "image": "https://avatars.githubusercontent.com/u/36072460?v=4",
+      "image": "https://imgur.com/UPyEPOF",
       "github": "mukesh22584",
       "telegram": "mukesh22584",
       "XDA": "https://xdaforums.com/m/mukesh22584.5678679/",
@@ -12,12 +12,54 @@
     },
     {
     "name": "Mrick343",
-    "image": "https://avatars.githubusercontent.com/u/85066116?v=4",
+    "image": "https://imgur.com/qWraWMM",
     "telegram": "Mrick343",
     "XDA": "https://xdaforums.com/m/mrick343.12517809/",
     "role": "Core-Member and Maintainer",
     "devices": ["martini", "vayu"],
     "tagline": "A lazy coder"
+    },
+    {
+    "name": "Jamescable",
+    "image": "https://imgur.com/a/3MFoWf0",
+     "telegram": "Jrcable2",
+     "XDA": "https://xdaforums.com/m/jamescable.3604271/",
+     "role": "Maintainer",
+     "devices": ["gta4xlwifi"],
+    },
+    {
+    "name": "Cr1st1anlp",
+    "image": "https://i.imgur.com/QG7T7O9.jpeg",
+    "telegram": "Cr1st1anlp",
+    "XDA": "https://xdaforums.com/m/cristianlp.5095016/",
+    "role": "Maintainer",
+    "devices": ["vili"],
+    },
+    {
+    "name": "AssunZain",
+    "image": "https://i.imgur.com/WcTU0ct.jpeg",
+    "telegram": "AssunZain",
+    "XDA": "https://xdaforums.com/m/azaiin.6337190/",
+    "role": "Maintainer",
+    "devices": ["X01AD"],
+    },
+    {
+    "name": "RoxoR",
+    "image": "https://i.imgur.com/4tJemLf.png",
+    "telegram": "Roxor007",
+    "XDA": "https://xdaforums.com/m/0_roxor_0.7090065/",
+    "role": "Maintainer",
+    "devices": ["alioth/aliothin"],
+    "tagline": "More lazy coder than Mrick"
+    },
+    {
+    "name": "CuriousNom",
+    "image": "https://i.imgur.com/NMilZrw.jpeg",
+    "telegram": "CuriousNom",
+    "XDA": "https://xdaforums.com/m/the_riderrr.12773444/",
+    "role": "Maintainer",
+    "devices": ["violet", "gta4lwifi"],
+    "tagline": "Coding curiosity into reality"
     }
  ]
 }

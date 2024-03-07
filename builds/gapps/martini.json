@@ -1,0 +1,26 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Mrick343",
+            "telegram": "https://t.me/mrickdiscussion",
+            "github": "https://github.com/Mrick343"
+        }
+    ],
+    "beta": false,
+    "version": "fourteen",
+    "available_versions": [
+        "fourteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "OnePlus 9RT",
+    "device_display_codename": "martini",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/martini/Matrixx-v10.2.1-Official-martini-Gapps-20240123.zip/download",
+    "last_updated": "23 January 2024",
+    "timestamp": 1705993741,
+    "md5": "7a02df035b9e1d98cb19c1d37a16e12a",
+    "size": 2019259323,
+    "version": "v10.2.1",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}

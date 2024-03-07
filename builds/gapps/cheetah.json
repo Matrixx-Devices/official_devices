@@ -1,0 +1,26 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Pyrtle93",
+            "telegram": "",
+            "github": ""
+        }
+    ],
+    "beta": false,
+    "version": "fourteen",
+    "available_versions": [
+        "fourteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Google Pixel 7 Pro",
+    "device_display_codename": "cheetah",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/cheetah/Matrixx-v10.3.0-Official-cheetah-Gapps-20240305.zip/download",
+    "last_updated": "05 March 2024",
+    "timestamp": 1709647923,
+    "md5": "ab553fc13e6b3c669a64ab1f4f9d482d",
+    "size": 2598135906,
+    "version": "v10.3.0",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}

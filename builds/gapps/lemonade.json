@@ -1,0 +1,27 @@
+{
+    "maintainer": [
+        {
+            "display_name": "mukesh22584",
+            "telegram": "https://t.me/matrixx_community",
+            "github": "https://github.com/mukesh22584"
+        }
+    ],
+    "beta": false,
+    "version": "fourteen",
+    "available_versions": [
+        "fourteen",
+        "thirteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "OnePlus 9",
+    "device_display_codename": "lemonade",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/lemonade/Matrixx-v10.3.0-Official-lemonade-Gapps-20240222.zip/download",
+    "last_updated": "22 February 2024",
+    "timestamp": 1708595017,
+    "md5": "8d7ca46949b7667d67cfd218a4138bfd",
+    "size": 1945832744,
+    "version": "v10.3.0",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}

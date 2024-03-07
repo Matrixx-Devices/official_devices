@@ -1,0 +1,26 @@
+{
+    "maintainer": [
+        {
+            "display_name": "EinarG.",
+            "telegram": "",
+            "github": ""
+        }
+    ],
+    "beta": true,
+    "version": "fourteen",
+    "available_versions": [
+        "fourteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Google Pixel 6",
+    "device_display_codename": "oriole",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/oriole/Matrixx-v10.3.0-Official-oriole-Gapps-20240306.zip/download",
+    "last_updated": "06 March 2024",
+    "timestamp": 1709724797,
+    "md5": "09935a94dbf7aaa5ae7d0138f2915a44",
+    "size": 2062478295,
+    "version": "v10.3.0",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}

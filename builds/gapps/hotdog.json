@@ -1,0 +1,26 @@
+{
+    "maintainer": [
+        {
+            "display_name": "mukesh22584",
+            "telegram": "https://t.me/matrixx_community",
+            "github": "https://github.com/mukesh22584"
+        }
+    ],
+    "beta": false,
+    "version": "fourteen",
+    "available_versions": [
+        "fourteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "OnePlus 7T Pro",
+    "device_display_codename": "hotdog",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/hotdog/Matrixx-v10.3.0-Official-hotdog-Gapps-20240303.zip/download",
+    "last_updated": "03 March 2024",
+    "timestamp": 1709455888,
+    "md5": "988ca6b573424321c2a815816d705d84",
+    "size": 1446116596,
+    "version": "v10.3.0",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}

@@ -6,7 +6,7 @@
             "github": "https://github.com/mukesh22584"
         }
     ],
-    "beta": true,
+    "beta": false,
     "version": "fourteen",
     "available_versions": [
         "fourteen",
@@ -15,8 +15,12 @@
     "release": "monthly",
     "device_display_name": "OnePlus 9 Pro",
     "device_display_codename": "lemonadep",
-    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/lemonadep/",
-    "last_updated": "17 November 2023",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/lemonadep/Matrixx-v10.3.0-Official-lemonadep-Gapps-20240222.zip/download",
+    "last_updated": "22 February 2023",
+    "timestamp": 1708590287,
+    "md5": "e27525b618fd2eb78730c524550e1cad",
+    "size": 1947026880,
+    "version": "v10.3.0",
     "active": true,
     "customRecoveryRequired": true,
     "xda": null
