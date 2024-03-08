@@ -80,6 +80,24 @@
             "maintainer_name": "PRIYANSHU",
             "frame": null,
             "active": true
-        }        
+        },
+        {
+            "codename": "cheetah",
+            "codename_alt": "cheetah",
+            "vendor": "Google",
+            "model": "Pixel 7 Pro",
+            "maintainer_name": "Pyrtle93",
+            "frame": null,
+            "active": true
+        },
+        {
+            "codename": "panther",
+            "codename_alt": "panther",
+            "vendor": "Google",
+            "model": "Pixel 7",
+            "maintainer_name": "Pyrtle93",
+            "frame": null,
+            "active": true
+        }
     ]
 }

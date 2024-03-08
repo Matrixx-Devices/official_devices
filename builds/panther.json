@@ -1,0 +1,26 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Pyrtle93",
+            "telegram": "https://t.me/Pyrtle93",
+            "github": "https://github.com/Pyrtle93"
+        }
+    ],
+    "beta": true,
+    "version": "fourteen",
+    "available_versions": [
+        "fourteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Google Pixel 7",
+    "device_display_codename": "panther",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/panther/Matrixx-v10.3.0-Official-panther-Gapps-20240306.zip/download",
+    "last_updated": "06 March 2024",
+    "timestamp": 1709685862,
+    "md5": "9d19813aa29b2a5c9436f18924264ddc",
+    "size": 2597571270,
+    "version": "v10.3.0",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": "https://xdaforums.com/t/rom-a14-pixel-7-series-matrixx-v10-3-0-gapps-03-05-2024.4654436/"
+}

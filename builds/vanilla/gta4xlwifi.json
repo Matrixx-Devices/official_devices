@@ -1,0 +1,26 @@
+{
+    "maintainer": [
+        {
+            "display_name": "James_Cable",
+            "telegram": "https://t.me/alischatroom",
+            "github": "https://github.com/AAMIRR-ALI"
+        }
+    ],
+    "beta": false,
+    "version": "fourteen",
+    "available_versions": [
+        "fourteen",
+    ],
+    "release": "monthly",
+    "device_display_name": "Galaxy Tab S6 Lite 2020",
+    "device_display_codename": "Gta4xlwifi",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/gta4xlwifi/",
+    "last_updated": "",
+    "timestamp": ,
+    "md5": "",
+    "size": ,
+    "version": "",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": "https://xdaforums.com/t/a14-rom-project-matrixx-v10-3-gta4xlwifi-gta4xl-official-exynos.4659165/"
+}

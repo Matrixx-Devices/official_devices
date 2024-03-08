@@ -1,0 +1,26 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Rinto",
+            "telegram": "",
+            "github": ""
+        }
+    ],
+    "beta": true,
+    "version": "fourteen",
+    "available_versions": [
+        "fourteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Realme C3",
+    "device_display_codename": "RMX2020",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/RMX2020/Matrixx-v10.3.0-Official-RMX2020-Gapps-20240220.zip/download",
+    "last_updated": "20 February 2024",
+    "timestamp": 1708406440,
+    "md5": "4fbae48a990905dfffe81f20d6dfeb05",
+    "size": 1503370203,
+    "version": "v10.3.0",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}

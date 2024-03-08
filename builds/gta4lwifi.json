@@ -1,0 +1,26 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Curious_Nom",
+            "telegram": "",
+            "github": ""
+        }
+    ],
+    "beta": false,
+    "version": "fourteen",
+    "available_versions": [
+        "fourteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Samsung Galaxy Tab A7",
+    "device_display_codename": "gta4lwifi",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/gta4lwifi/Matrixx-v10.3.0-Official-gta4lwifi-Gapps-20240224.zip/download",
+    "last_updated": "24 February 2024",
+    "timestamp": 1708770788,
+    "md5": "717470348d5e0c409a0d3bd9373abd0b",
+    "size": 1378451895,
+    "version": "v10.3.0",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}

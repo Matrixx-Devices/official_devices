@@ -1,0 +1,26 @@
+{
+    "maintainer": [
+        {
+            "display_name": "RDS_07",
+            "telegram": "",
+            "github": ""
+        }
+    ],
+    "beta": false,
+    "version": "fourteen",
+    "available_versions": [
+        "fourteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Xiaomi Mi 9",
+    "device_display_codename": "cepheus",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/cepheus/Matrixx-v10.3.0-Official-cepheus-Gapps-20240210.zip/download",
+    "last_updated": "10 Fenruary 2024",
+    "timestamp": 1707506205,
+    "md5": "3b68898c54a947a5acef070310b26997",
+    "size": 1853655309,
+    "version": "v10.3.0",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}

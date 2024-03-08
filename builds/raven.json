@@ -1,0 +1,26 @@
+{
+    "maintainer": [
+        {
+            "display_name": "EinarG.",
+            "telegram": "",
+            "github": ""
+        }
+    ],
+    "beta": true,
+    "version": "fourteen",
+    "available_versions": [
+        "fourteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Google Pixel 6 Pro",
+    "device_display_codename": "raven",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/raven/Matrixx-v10.3.0-Official-raven-Gapps-20240306.zip/download",
+    "last_updated": "06 March 2024",
+    "timestamp": 1709705327,
+    "md5": "e9e13a8515728876dcb226db5b1f92f7",
+    "size": 2063696328,
+    "version": "v10.3.0",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}

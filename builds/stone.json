@@ -1,0 +1,25 @@
+{
+    "maintainer": [
+        {
+            "display_name": "ARIJIT-SAHA",
+            "telegram": "",
+            "github": ""
+        }
+    ],
+    "beta": true,
+    "version": "fourteen",
+    "available_versions": [
+        "fourteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "POCO X5 5G/Redmi Note 12 5G | Note 12R Pro",
+    "device_display_codename": "stone",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/stone/Matrixx-v10.3.0-Official-stone-Gapps-20240304.zip/download",
+    "last_updated": "04 March 2024",
+    "timestamp": 1709526327,
+    "md5": "80c5d3bcbb8aa990bc5f67e14e7df8e9",
+    "size": 1522821794,
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}

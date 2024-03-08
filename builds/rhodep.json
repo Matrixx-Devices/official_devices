@@ -1,0 +1,26 @@
+{
+    "maintainer": [
+        {
+            "display_name": "IczYn",
+            "telegram": "",
+            "github": ""
+        }
+    ],
+    "beta": true,
+    "version": "fourteen",
+    "available_versions": [
+        "fourteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Motorola Moto G82 5G",
+    "device_display_codename": "rhodep",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/rhodep/Matrixx-v10.3.0-Official-rhodep-Gapps-20240211.zip/download",
+    "last_updated": "02 March 2024",
+    "timestamp": 1707668311,
+    "md5": "c4686f06fb1e60996e7164b570ed0257",
+    "size": 1304303008,
+    "version": "v10.3.0",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}

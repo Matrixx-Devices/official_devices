@@ -1,0 +1,26 @@
+{
+    "maintainer": [
+        {
+            "display_name": "obito_svha",
+            "telegram": "",
+            "github": ""
+        }
+    ],
+    "beta": true,
+    "version": "fourteen",
+    "available_versions": [
+        "fourteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Redmi 6 Pro",
+    "device_display_codename": "sakura",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/sakura/Matrixx-v10.3.0-Official-sakura-Gapps-20240227.zip/download",
+    "last_updated": "27 February 2024",
+    "timestamp": 1709011565,
+    "md5": "a997adaaada988f5a20d4be274f77192",
+    "size": 1271887589,
+    "version": "v10.3.0",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}

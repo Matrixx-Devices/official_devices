@@ -1,0 +1,26 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Jay",
+            "telegram": "",
+            "github": ""
+        }
+    ],
+    "beta": false,
+    "version": "fourteen",
+    "available_versions": [
+        "fourteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Motorola Moto G42",
+    "device_display_codename": "Moto G42",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/hawao/Matrixx-v10.3.0-Official-hawao-Gapps-20240303.zip/download",
+    "last_updated": "03 March 2024",
+    "timestamp": 1709443443,
+    "md5": "9ec53961307d5676f2f4405c70fd9046",
+    "size": 1313790921,
+    "version": "v10.3.0",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}
