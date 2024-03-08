@@ -1,0 +1,26 @@
+{
+    "maintainer": [
+        {
+            "display_name": "KSSRAO",
+            "telegram": "https://t.me/KSSRAO_Romverse",
+            "github": "https://github.com/kssrao13882"
+        }
+    ],
+    "beta": false,
+    "version": "fourteen",
+    "available_versions": [
+        "fourteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Poco F5/Redmi Note 12 Turbo",
+    "device_display_codename": "marble",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/marble/Matrixx-v10.3.0-Official-marble-Vanilla-20240306.zip/download",
+    "last_updated": "06 March 2024",
+    "timestamp": 1709686520,
+    "md5": "4993025013dea154580370e4f499f981",
+    "size": 1725680813,
+    "version": "v10.3.0",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}
