@@ -1,19 +1,19 @@
 {
     "maintainer": [
         {
-            "display_name": "ARIJIT-SAHA",
+            "display_name": "EinarG.",
             "telegram": "",
             "github": ""
         }
     ],
-    "beta": false,
+    "beta": true,
     "available_versions": [
         "fourteen"
     ],
     "release": "monthly",
-    "device_display_name": "Xiaomi Redmi Note 5",
-    "device_display_codename": "whyred",
-    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/whyred/",
+    "device_display_name": "Google Pixel 6",
+    "device_display_codename": "oriole",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/oriole/",
     "last_updated": "March 2024",
     "version": "v10.3.0",
     "active": true,

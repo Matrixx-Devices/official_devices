@@ -1,0 +1,22 @@
+{
+    "maintainer": [
+        {
+            "display_name": "kamlesh-patel",
+            "telegram": "https://t.me/kamleshpatidar",
+            "github": "https://github.com/kamleshhv"
+        }
+    ],
+    "beta": false,
+    "available_versions": [
+        "fourteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Xiaomi Redmi Note 10 Pro",
+    "device_display_codename": "sweet/sweetin",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/sweet/",
+    "last_updated": "March 2024",
+    "version": "v10.3.0",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}

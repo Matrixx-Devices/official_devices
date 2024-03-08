@@ -6,8 +6,7 @@
             "github": "https://github.com/mukesh22584"
         }
     ],
-    "beta": true,
-    "version": "fourteen",
+    "beta": false,
     "available_versions": [
         "fourteen",
         "thirteen"
@@ -16,7 +15,8 @@
     "device_display_name": "OnePlus 7T",
     "device_display_codename": "hotdogb",
     "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/hotdogb/",
-    "last_updated": "12 November 2023",
+    "last_updated": "March 2023",
+    "version": "v10.3.0",
     "active": true,
     "customRecoveryRequired": true,
     "xda": null

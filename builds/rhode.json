@@ -1,7 +1,7 @@
 {
     "maintainer": [
         {
-            "display_name": "ARIJIT-SAHA",
+            "display_name": "Jay",
             "telegram": "",
             "github": ""
         }
@@ -11,9 +11,9 @@
         "fourteen"
     ],
     "release": "monthly",
-    "device_display_name": "Xiaomi Redmi Note 5",
-    "device_display_codename": "whyred",
-    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/whyred/",
+    "device_display_name": "Motorola Moto G52",
+    "device_display_codename": "Moto G52",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/rhode/",
     "last_updated": "March 2024",
     "version": "v10.3.0",
     "active": true,

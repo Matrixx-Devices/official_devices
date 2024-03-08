@@ -1,7 +1,7 @@
 {
-    "maintainer": [
+"maintainer": [
         {
-            "display_name": "ARIJIT-SAHA",
+            "display_name": "EinarG.",
             "telegram": "",
             "github": ""
         }
@@ -11,9 +11,9 @@
         "fourteen"
     ],
     "release": "monthly",
-    "device_display_name": "Xiaomi Redmi Note 5",
-    "device_display_codename": "whyred",
-    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/whyred/",
+    "device_display_name": "Google Pixel 6a",
+    "device_display_codename": "bluejay",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/bluejay/",
     "last_updated": "March 2024",
     "version": "v10.3.0",
     "active": true,
