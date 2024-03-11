@@ -1,149 +1,163 @@
 {
   "team": [
     {
+      "name": "Rogert.T",
+      "image": "https://i.imgur.com/Lo6c6dQ.jpg",
+      "github": "rogerdott",
+      "telegram": "Roger_T",
+      "XDA": "",
+      "role": "Graphics designer",
+    },
+    {
+      "name": "SuperDroidBond",
+      "image": "https://i.imgur.com/PrxlD75.jpg",
+      "github": "SuperDroidBond",
+      "telegram": "SuperDroidBond",
+      "XDA": "superdroidbond.8829870",
+      "role": "Helping hand",
+    },
+    {
+      "name": "Hardik",
+      "image": "https://i.imgur.com/biqky5W.png",
+      "github": "",
+      "telegram": "Hardik1st",
+      "XDA": "",
+      "role": "Website maintainer",
+    },
+    {
       "name": "Mukesh Singh",
-      "image": "https://i.flowinity.com/i/6901405709cc.jpg",
+      "image": "https://i.imgur.com/5c8kkdA.jpg",
       "github": "mukesh22584",
       "telegram": "mukesh22584",
       "XDA": "mukesh22584.5678679",
       "role": "Core-Member and Maintainer",
-      "devices": ["lemonade", "lemonadep", "hotdog", "hotdogb"],
-      "tagline": ""
+      "devices": ["lemonade", "lemonadep", "hotdog", "hotdogb"]
     },
     {
-    "name": "Mrick343",
-    "image": "https://imgur.com/qWraWMM.jpg",
-    "github": "Mrick343",
-    "telegram": "Mrick343",
-    "XDA": "mrick343.12517809",
-    "role": "Core-Member and Maintainer",
-    "devices": ["martini", "vayu"],
-    "tagline": "A lazy coder"
+      "name": "Mrick343",
+      "image": "https://i.imgur.com/eYiIEfZ.jpg",
+      "github": "Mrick343",
+      "telegram": "Mrick343",
+      "XDA": "mrick343.12517809",
+      "role": "Core-Member and Maintainer",
+      "devices": ["martini", "vayu"]
     },
     {
-     "name": "AAMIR ALI",
-    "image": "https://i.imgur.com/Oekr967.jpg",
-    "github": "AAMIRR-ALI",
-    "telegram": "AAMIRR_ALI",
-    "XDA": "aamirr-ali.12795278",
-    "role": "Core-Member and Maintainer",
-    "devices": ["bladerunner"]
+      "name": "AAMIR ALI",
+      "image": "https://i.imgur.com/fhctbxH.jpg",
+      "github": "AAMIRR-ALI",
+      "telegram": "AAMIRR_ALI",
+      "XDA": "aamirr-ali.12795278",
+      "role": "Core-Member and Maintainer",
+      "devices": ["bladerunner"]
     },
     {
-    "name": "KSSRAO",
-    "image": "https://i.imgur.com/kmPQ7J7.jpg",
-    "github": "kssrao13882",
-    "telegram": "kssrao13882",
-    "XDA": "kssrao13882.11649931",
-    "role": "Maintainer",
-    "devices": ["marble"],
-    "tagline": "Age is Just a Number"
+      "name": "KSSRAO",
+      "image": "https://i.imgur.com/cmq0JKy.jpg",
+      "github": "kssrao13882",
+      "telegram": "kssrao13882",
+      "XDA": "kssrao13882.11649931",
+      "role": "Maintainer",
+      "devices": ["marble"]
     },
     {
-    "name": "Jamescable",
-    "image": "https://i.imgur.com/kmPQ7J7.jpg",
-    "github": "Jrcable1",
-     "telegram": "Jrcable2",
-     "XDA": "jamescable.3604271",
-     "role": "Maintainer",
-     "devices": ["gta4xlwifi"]
+      "name": "Jamescable",
+      "image": "https://i.imgur.com/z8GGwV9.jpg",
+      "github": "Jrcable1",
+      "telegram": "Jrcable2",
+      "XDA": "jamescable.3604271",
+      "role": "Maintainer",
+      "devices": ["gta4xlwifi"]
     },
     {
-    "name": "Aswin OP",
-    "image": "https://imgur.com/tKjKfFB.jpg",
-    "github": "AswinOP",
-    "telegram": "iaswinop",
-    "XDA": "aswinop.12752366",
-    "role": "Maintainer",
-    "devices": ["veux", "peux"],
-    "tagline": "Coffee: the compiler of dreams."
+      "name": "Aswin OP",
+      "image": "https://i.imgur.com/1N5v6wW.jpg",
+      "github": "AswinOP",
+      "telegram": "iaswinop",
+      "XDA": "aswinop.12752366",
+      "role": "Maintainer",
+      "devices": ["veux", "peux"]
     },
     {
-    "name": "IczYn",
-    "image": "https://i.imgur.com/ze9D3un.png",
-    "github": "IczYn",
-    "telegram": "IczYn",
-    "XDA": "iczyn.3065187",
-    "role": "Maintainer",
-    "devices": ["rhodep"]
+      "name": "IczYn",
+      "image": "https://i.imgur.com/hTeiQj7.png",
+      "github": "IczYn",
+      "telegram": "IczYn",
+      "XDA": "iczyn.3065187",
+      "role": "Maintainer",
+      "devices": ["rhodep"]
     },
     {
-    "name": "Cr1st1anlp",
-    "image": "https://i.imgur.com/QG7T7O9.jpeg",
-    "github": "Cristianlp2",
-    "telegram": "Cr1st1anlp",
-    "XDA": "cristianlp.5095016",
-    "role": "Maintainer",
-    "devices": ["vili"]
+      "name": "Cr1st1anlp",
+      "image": "https://i.imgur.com/rnuoz2q.jpg",
+      "github": "Cristianlp2",
+      "telegram": "Cr1st1anlp",
+      "XDA": "cristianlp.5095016",
+      "role": "Maintainer",
+      "devices": ["vili"]
     },
     {
-    "name": "AssunZain",
-    "image": "https://i.imgur.com/WcTU0ct.jpeg",
-    "github": "Assunzain",
-    "telegram": "AssunZain",
-    "XDA": "azaiin.6337190",
-    "role": "Maintainer",
-    "devices": ["X01AD"]
+      "name": "AssunZain",
+      "image": "https://i.imgur.com/nRu2NrI.jpg",
+      "github": "Assunzain",
+      "telegram": "AssunZain",
+      "XDA": "azaiin.6337190",
+      "role": "Maintainer",
+      "devices": ["X01AD"]
     },
     {
-    "name": "RoxoR",
-    "image": "https://i.imgur.com/4tJemLf.png",
-    "github": "Roxor-007",
-    "telegram": "Roxor007",
-    "XDA": "0_roxor_0.7090065",
-    "role": "Maintainer",
-    "devices": ["alioth/aliothin"],
-    "tagline": "More lazy coder than Mrick"
+      "name": "RoxoR",
+      "image": "https://i.imgur.com/PExkkGL.png",
+      "github": "Roxor-007",
+      "telegram": "Roxor007",
+      "XDA": "0_roxor_0.7090065",
+      "role": "Maintainer",
+      "devices": ["alioth/aliothin"]
     },
     {
-    "name": "CuriousNom",
-    "image": "https://i.imgur.com/NMilZrw.jpeg",
-    "github": "CuriousNom",
-    "telegram": "CuriousNom",
-    "XDA": "the_riderrr.12773444",
-    "role": "Maintainer",
-    "devices": ["violet", "gta4lwifi"],
-    "tagline": "Coding curiosity into reality"
+      "name": "CuriousNom",
+      "image": "https://i.imgur.com/Kx8eHPV.jpg",
+      "github": "CuriousNom",
+      "telegram": "CuriousNom",
+      "XDA": "the_riderrr.12773444",
+      "role": "Maintainer",
+      "devices": ["violet", "gta4lwifi"]
     },
     {
-    "name": "Pyrtle93",
-    "image": "https://avatars.githubusercontent.com/u/5258054?s=400&u=d8429a6741c3438f4b93f6983d3ec433a47b4264&v=4",
-    "github": "Pyrtle93",
-     "telegram": "Pyrtle93",
-     "XDA": "https://xdaforums.com/t/rom-a14-pixel-7-series-matrixx-v10-3-0-gapps-03-05-2024.4654436",
-     "role": "Maintainer",
-     "devices": ["cheetah", "panther", "lynx"],
-     "tagline": "The laziest coder of all time"
+      "name": "Pyrtle93",
+      "image": "https://i.imgur.com/KW3EqVw.jpg",
+      "github": "Pyrtle93",
+      "telegram": "Pyrtle93",
+      "XDA": "axxpyrtlexx20.5392313",
+      "role": "Maintainer",
+      "devices": ["cheetah", "panther", "lynx"]
     },
     {
-    "name": "kamlesh patel",
-    "image": "https://imgur.com/T0SpGNg.jpg",
-    "github": "kamleshhv",
-    "telegram": "kamleshpatidar",
-    "XDA": "kamlesh-vasnjaliya.12794994",
-    "role": "Maintainer",
-    "devices": ["sweet", "sweetin"],
-    "tagline": "Designing Your Digital Dreams."
+      "name": "kamlesh patel",
+      "image": "https://i.imgur.com/S651g9y.jpg",
+      "github": "kamleshhv",
+      "telegram": "kamleshpatidar",
+      "XDA": "kamlesh-vasnjaliya.12794994",
+      "role": "Maintainer",
+      "devices": ["sweet", "sweetin"]
     },
     {
-    "name": "Arijit Saha",
-    "image": "https://imgur.com/a/xBkE5Vx.jpg",
-    "github": "Arijit78",
-    "telegram": "whyred_404",
-    "XDA": "whyred_404.12444399",
-    "role": "Maintainer",
-    "devices": ["whyred", "stone"],
-    "tagline": "Super lazy maintainer"
+      "name": "Arijit Saha",
+      "image": "https://i.imgur.com/M6mbjtC.jpg",
+      "github": "Arijit78",
+      "telegram": "whyred_404",
+      "XDA": "whyred_404.12444399",
+      "role": "Maintainer",
+      "devices": ["whyred", "stone"]
     },
     {
-    "name": "Aneesh",
-    "image": "https://imgur.com/o4XhWK6.jpg",
-    "github": "aneeshsvha",
-    "telegram": "obito_svha",
-    "XDA": "obito_svha.12755679",
-    "role": "Maintainer",
-    "devices": ["sakura"],
-    "tagline": "Rise Shine Routine"
+      "name": "Aneesh",
+      "image": "https://i.imgur.com/hSgeD3G.jpg",
+      "github": "aneeshsvha",
+      "telegram": "obito_svha",
+      "XDA": "obito_svha.12755679",
+      "role": "Maintainer",
+      "devices": ["sakura"]
     }
  ]
 }
