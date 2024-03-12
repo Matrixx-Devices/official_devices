@@ -159,5 +159,14 @@
       "role": "Maintainer",
       "devices": ["sakura"]
     }
+    {
+      "name": "Zahid Hasmani",
+      "image": "https://imgur.com/gallery/jWHlfb3",
+      "github": "Twinchin12",
+      "telegram": "twinchin96",
+      "XDA": "zizzyboi.9670112",
+      "role": "Maintainer",
+      "devices": ["instantnoodle", "instantnoodlep", "kebab", "Spacewar"]
+    }
  ]
 }

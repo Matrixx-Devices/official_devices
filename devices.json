@@ -183,6 +183,27 @@
             "active": true
          },
          {
+            "codename": "instantnoodle",
+            "vendor": "OnePlus",
+            "model": "OnePlus 8",
+            "maintainer_name": "zizzyboi",
+            "active": true
+         },
+         {
+            "codename": "instantnoodlep",
+            "vendor": "OnePlus",
+            "model": "OnePlus 8 Pro",
+            "maintainer_name": "zizzyboi",
+            "active": true
+         },
+         {
+            "codename": "kebab",
+            "vendor": "OnePlus",
+            "model": "OnePlus 8T",
+            "maintainer_name": "zizzyboi",
+            "active": true
+         },
+         {
             "codename": "lemonade",
             "vendor": "OnePlus",
             "model": "OnePlus 9",
@@ -237,6 +258,13 @@
             "vendor": "Samsung",
             "model": "Galaxy Tab A7",
             "maintainer_name": "Aryan",
+            "active": true
+         }
+         {
+            "codename": "Spacewar",
+            "vendor": "Nothing",
+            "model": "Nothing Phone (1)",
+            "maintainer_name": "zizzyboi",
             "active": true
          }
     ]
