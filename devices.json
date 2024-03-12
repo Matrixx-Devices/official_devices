@@ -8,7 +8,16 @@
             "maintainer_name": "AssunZain",
             "frame": null,
             "active": true
-        },
+         },
+         {
+            "codename": "bluejay",
+            "codename_alt": "bluejay",
+            "vendor": "Google",
+            "model": "Pixel 6a",
+            "maintainer_name": "EinarG.",
+            "frame": null,
+            "active": true
+         },
          {
             "codename": "oriole",
             "codename_alt": "oriole",
@@ -28,15 +37,15 @@
             "active": true
          },
          {
-            "codename": "bluejay",
-            "codename_alt": "bluejay",
+            "codename": "lynx",
+            "codename_alt": "lynx",
             "vendor": "Google",
-            "model": "Pixel 6a",
-            "maintainer_name": "EinarG.",
+            "model": "Pixel 7a",
+            "maintainer_name": "Pyrtle93",
             "frame": null,
             "active": true
-        },
-        {
+         },
+         {
             "codename": "panther",
             "codename_alt": "panther",
             "vendor": "Google",
@@ -44,7 +53,7 @@
             "maintainer_name": "Pyrtle93",
             "frame": null,
             "active": true
-        },
+         },
          {
             "codename": "cheetah",
             "codename_alt": "cheetah",
@@ -53,169 +62,7 @@
             "maintainer_name": "Pyrtle93",
             "frame": null,
             "active": true
-        },
-         {
-            "codename": "bluejay",
-            "codename_alt": "bluejay",
-            "vendor": "Google",
-            "model": "Pixel 6a",
-            "maintainer_name": "EinarG.",
-            "frame": null,
-            "active": true
-        },
-        {
-            "codename": "devon",
-            "codename_alt": "devon",
-            "vendor": "Motorola",
-            "model": "Moto G32",
-            "maintainer_name": "Jay",
-            "frame": null,
-            "active": true
-        },
-        {
-            "codename": "hawao",
-            "codename_alt": "hawao",
-            "vendor": "Motorola",
-            "model": "Moto G42",
-            "maintainer_name": "Jay",
-            "frame": null,
-            "active": true
-        },
-        {
-            "codename": "rhode",
-            "codename_alt": "rhode",
-            "vendor": "Motorola",
-            "model": "Moto G52",
-            "maintainer_name": "Jay",
-            "frame": null,
-            "active": true
-        },
-        {
-            "codename": "rhodep",
-            "codename_alt": "rhodep",
-            "vendor": "Motorola",
-            "model": "Moto G82 5G",
-            "maintainer_name": "IczYn",
-            "frame": null,
-            "active": true
-        },
-        {
-            "codename": "lemonade",
-            "codename_alt": "lemonade",
-            "vendor": "OnePlus",
-            "model": "OnePlus 9",
-            "maintainer_name": "mukesh22584",
-            "frame": null,
-            "active": true
-        },
-        {
-            "codename": "lemonadep",
-            "codename_alt": "lemonadep",
-            "vendor": "OnePlus",
-            "model": "OnePlus 9 Pro",
-            "maintainer_name": "mukesh22584",
-            "frame": null,
-            "active": true
-        },
-        {
-            "codename": "martini",
-            "codename_alt": "martini",
-            "vendor": "OnePlus",
-            "model": "OnePlus 9RT",
-            "maintainer_name": "Mrick343",
-            "frame": null,
-            "active": true
-        },
-        {
-            "codename": "hotdog",
-            "codename_alt": "hotdogb",
-            "vendor": "OnePlus",
-            "model": "OnePlus 7T",
-            "maintainer_name": "mukesh22584",
-            "frame": null,
-            "active": true
-        },
-        {
-            "codename": "bladerunner",
-            "codename_alt": "bladerunner",
-            "vendor": "Realme",
-            "model": "Realme X50 Pro/Player 5G",
-            "maintainer_name": "AAMIR ALI",
-            "frame": null,
-            "active": true
-        },
-        {
-            "codename": "RMX2020",
-            "codename_alt": "RMX2020",
-            "vendor": "Realme",
-            "model": "C3",
-            "maintainer_name": "Rinto",
-            "frame": null,
-            "active": true
-        },
-        {
-            "codename": "gta4lwifi",
-            "codename_alt": "gta4lwifi",
-            "vendor": "Samsung",
-            "model": "Galaxy Tab A7",
-            "maintainer_name": "Curious_Nom",
-            "frame": null,
-            "active": true
-        },
-        {
-            "codename": "stone",
-            "codename_alt": "moonstone/sunstone",
-            "vendor": "Xiaomi",
-            "model": "Redmi Note 12 / POCO X5 5G",
-            "maintainer_name": "Arijit Saha",
-            "frame": null,
-            "active": true
-        },
-        {
-            "codename": "whyred",
-            "codename_alt": "whyrede",
-            "vendor": "Xiaomi",
-            "model": "Redmi Note 5",
-            "maintainer_name": "Arijit Saha",
-            "frame": null,
-            "active": true
-        },
-        {
-            "codename": "vayu",
-            "codename_alt": "bhima",
-            "vendor": "Xiaomi",
-            "model": "POCO X3 PRO",
-            "maintainer_name": "Mrick343",
-            "frame": null,
-            "active": true
-        },
-        {
-            "codename": "marble",
-            "codename_alt": "marblein",
-            "vendor": "Xiaomi",
-            "model": "POCO F5/Redmi note 12 turbo",
-            "maintainer_name": "KSSRAO",
-            "frame": null,
-            "active": true
-        },
-        {
-            "codename": "alioth",
-            "codename_alt": "alioth/aliothin",
-            "vendor": "Xiaomi",
-            "model": "POCO F3/K40/Mi 11X",
-            "maintainer_name": "Roxor-007",
-            "frame": null,
-            "active": true
-        },
-        {
-            "codename": "redwood",
-            "codename_alt": "redwood/redwoodin",
-            "vendor": "Xiaomi",
-            "model": "POCO X5 Pro 5G/Redmi Note 12 Pro Speed",
-            "maintainer_name": "PRIYANSHU",
-            "frame": null,
-            "active": true
-        },
+         },
          {
             "codename": "cepheus",
             "codename_alt": "cepheus",
@@ -224,34 +71,25 @@
             "maintainer_name": "RDS_07",
             "frame": null,
             "active": true
-        },
-        {
-            "codename": "sakura",
-            "codename_alt": "sakura",
+         },
+         {
+            "codename": "alioth",
+            "codename_alt": "alioth/aliothin",
             "vendor": "Xiaomi",
-            "model": "Redmi 6 Pro",
-            "maintainer_name": "obito_svha",
+            "model": "POCO F3/K40/Mi 11X",
+            "maintainer_name": "Roxor-007",
             "frame": null,
             "active": true
-        },
-        {
-            "codename": "spes",
-            "codename_alt": "spes",
+         },
+         {
+            "codename": "marble",
+            "codename_alt": "marblein",
             "vendor": "Xiaomi",
-            "model": "Redmi Note 11",
-            "maintainer_name": "sayann70",
+            "model": "POCO F5/Redmi note 12 turbo",
+            "maintainer_name": "KSSRAO",
             "frame": null,
             "active": true
-        },
-        {
-            "codename": "sweet",
-            "codename_alt": "sweet",
-            "vendor": "Xiaomi",
-            "model": "Redmi Note 10 Pro",
-            "maintainer_name": "kamlesh-patel",
-            "frame": null,
-            "active": true
-        },
+         },
          {
             "codename": "veux",
             "codename_alt": "peux",
@@ -260,8 +98,62 @@
             "maintainer_name": "Aswin OP",
             "frame": null,
             "active": true
-        },
-        {
+         },
+         {
+            "codename": "redwood",
+            "codename_alt": "redwood/redwoodin",
+            "vendor": "Xiaomi",
+            "model": "POCO X5 Pro 5G/Redmi Note 12 Pro Speed",
+            "maintainer_name": "PRIYANSHU",
+            "frame": null,
+            "active": true
+         },
+         {
+            "codename": "stone",
+            "codename_alt": "moonstone/sunstone",
+            "vendor": "Xiaomi",
+            "model": "Redmi Note 12 / POCO X5 5G",
+            "maintainer_name": "Arijit Saha",
+            "frame": null,
+            "active": true
+         },
+         {
+            "codename": "sakura",
+            "codename_alt": "sakura",
+            "vendor": "Xiaomi",
+            "model": "Redmi 6 Pro",
+            "maintainer_name": "obito_svha",
+            "frame": null,
+            "active": true
+         },
+         {
+            "codename": "whyred",
+            "codename_alt": "whyrede",
+            "vendor": "Xiaomi",
+            "model": "Redmi Note 5",
+            "maintainer_name": "Arijit Saha",
+            "frame": null,
+            "active": true
+         },
+         {
+            "codename": "sweet",
+            "codename_alt": "sweet",
+            "vendor": "Xiaomi",
+            "model": "Redmi Note 10 Pro",
+            "maintainer_name": "kamlesh-patel",
+            "frame": null,
+            "active": true
+         },
+         {
+            "codename": "spes",
+            "codename_alt": "spes",
+            "vendor": "Xiaomi",
+            "model": "Redmi Note 11",
+            "maintainer_name": "sayann70",
+            "frame": null,
+            "active": true
+         },
+         {
             "codename": "violet",
             "codename_alt": "violet",
             "vendor": "Xiaomi",
@@ -269,7 +161,150 @@
             "maintainer_name": "The_Riderrr",
             "frame": null,
             "active": true
-        }
-
+         },
+         {
+            "codename": "vayu",
+            "codename_alt": "bhima",
+            "vendor": "Xiaomi",
+            "model": "POCO X3 PRO",
+            "maintainer_name": "Mrick343",
+            "frame": null,
+            "active": true
+         },
+         {
+            "codename": "vili",
+            "codename_alt": "vili",
+            "vendor": "Xiaomi",
+            "model": "Xiaomi 11T Pro",
+            "maintainer_name": "Cr1st1anlp",
+            "frame": null,
+            "active": true
+         },
+         {
+            "codename": "devon",
+            "codename_alt": "devon",
+            "vendor": "Motorola",
+            "model": "Moto G32",
+            "maintainer_name": "Jay",
+            "frame": null,
+            "active": true
+         },
+         {
+            "codename": "hawao",
+            "codename_alt": "hawao",
+            "vendor": "Motorola",
+            "model": "Moto G42",
+            "maintainer_name": "Jay",
+            "frame": null,
+            "active": true
+         },
+         {
+            "codename": "rhode",
+            "codename_alt": "rhode",
+            "vendor": "Motorola",
+            "model": "Moto G52",
+            "maintainer_name": "Jay",
+            "frame": null,
+            "active": true
+         },
+         {
+            "codename": "rhodep",
+            "codename_alt": "rhodep",
+            "vendor": "Motorola",
+            "model": "Moto G82 5G",
+            "maintainer_name": "IczYn",
+            "frame": null,
+            "active": true
+         },
+         {
+            "codename": "hotdogb",
+            "codename_alt": "hotdogb",
+            "vendor": "OnePlus",
+            "model": "OnePlus 7T",
+            "maintainer_name": "mukesh22584",
+            "frame": null,
+            "active": true
+         },
+         {
+            "codename": "hotdog",
+            "codename_alt": "hotdog",
+            "vendor": "OnePlus",
+            "model": "OnePlus 7T pro",
+            "maintainer_name": "mukesh22584",
+            "frame": null,
+            "active": true
+         },
+         {
+            "codename": "lemonade",
+            "codename_alt": "lemonade",
+            "vendor": "OnePlus",
+            "model": "OnePlus 9",
+            "maintainer_name": "mukesh22584",
+            "frame": null,
+            "active": true
+         },
+         {
+            "codename": "lemonadep",
+            "codename_alt": "lemonadep",
+            "vendor": "OnePlus",
+            "model": "OnePlus 9 Pro",
+            "maintainer_name": "mukesh22584",
+            "frame": null,
+            "active": true
+         },
+         {
+            "codename": "martini",
+            "codename_alt": "martini",
+            "vendor": "OnePlus",
+            "model": "OnePlus 9RT",
+            "maintainer_name": "Mrick343",
+            "frame": null,
+            "active": true
+         },
+         {
+            "codename": "bladerunner",
+            "codename_alt": "bladerunner",
+            "vendor": "Realme",
+            "model": "Realme X50 Pro/Player 5G",
+            "maintainer_name": "AAMIR ALI",
+            "frame": null,
+            "active": true
+         },
+         {
+            "codename": "RMX2020",
+            "codename_alt": "RMX2020",
+            "vendor": "Realme",
+            "model": "C3",
+            "maintainer_name": "Rinto",
+            "frame": null,
+            "active": true
+         },
+         {
+            "codename": "beyond",
+            "codename_alt": "beyond",
+            "vendor": "Samsung",
+            "model": "Galay s10 series",
+            "maintainer_name": "FrEeRuNnEr4EvEr",
+            "frame": null,
+            "active": true
+         },
+         {
+            "codename": "f62",
+            "codename_alt": "f62",
+            "vendor": "Samsung",
+            "model": "Galaxy f62",
+            "maintainer_name": "FrEeRuNnEr4EvEr",
+            "frame": null,
+            "active": true
+         },
+         {
+            "codename": "gta4lwifi",
+            "codename_alt": "gta4lwifi",
+            "vendor": "Samsung",
+            "model": "Galaxy Tab A7",
+            "maintainer_name": "Aryan",
+            "frame": null,
+            "active": true
+         }
     ]
 }
