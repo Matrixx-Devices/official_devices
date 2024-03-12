@@ -10,24 +10,6 @@
             "active": true
         },
          {
-            "codename": "cheetah",
-            "codename_alt": "cheetah",
-            "vendor": "Google",
-            "model": "Pixel 7 Pro",
-            "maintainer_name": "Pyrtle93",
-            "frame": null,
-            "active": true
-        },
-        {
-            "codename": "panther",
-            "codename_alt": "panther",
-            "vendor": "Google",
-            "model": "Pixel 7",
-            "maintainer_name": "Pyrtle93",
-            "frame": null,
-            "active": true
-        },
-         {
             "codename": "oriole",
             "codename_alt": "oriole",
             "vendor": "Google",
@@ -55,15 +37,6 @@
             "active": true
         },
         {
-            "codename": "cheetah",
-            "codename_alt": "cheetah",
-            "vendor": "Google",
-            "model": "Pixel 7 Pro",
-            "maintainer_name": "Pyrtle93",
-            "frame": null,
-            "active": true
-        },
-        {
             "codename": "panther",
             "codename_alt": "panther",
             "vendor": "Google",
@@ -73,23 +46,14 @@
             "active": true
         },
          {
-            "codename": "oriole",
-            "codename_alt": "oriole",
+            "codename": "cheetah",
+            "codename_alt": "cheetah",
             "vendor": "Google",
-            "model": "Pixel 6",
-            "maintainer_name": "EinarG.",
+            "model": "Pixel 7 Pro",
+            "maintainer_name": "Pyrtle93",
             "frame": null,
             "active": true
-         },
-         {
-            "codename": "raven",
-            "codename_alt": "raven",
-            "vendor": "Google",
-            "model": "Pixel 6 Pro",
-            "maintainer_name": "EinarG.",
-            "frame": null,
-            "active": true
-         },
+        },
          {
             "codename": "bluejay",
             "codename_alt": "bluejay",
@@ -229,25 +193,25 @@
             "codename": "marble",
             "codename_alt": "marblein",
             "vendor": "Xiaomi",
-            "model": "Poco F5/Redmi Note 12 Turbo",
+            "model": "POCO F5/Redmi note 12 turbo",
             "maintainer_name": "KSSRAO",
             "frame": null,
             "active": true
         },
         {
             "codename": "alioth",
-            "codename_alt": "aliothin",
+            "codename_alt": "alioth/aliothin",
             "vendor": "Xiaomi",
-            "model": "POCO F3/K40/Mi 11X (alioth/aliothin)",
+            "model": "POCO F3/K40/Mi 11X",
             "maintainer_name": "Roxor-007",
             "frame": null,
             "active": true
         },
         {
             "codename": "redwood",
-            "codename_alt": "redwoodin",
+            "codename_alt": "redwood/redwoodin",
             "vendor": "Xiaomi",
-            "model": "POCO X5 Pro 5G/Redmi Note 12 Pro Speed (redwood)",
+            "model": "POCO X5 Pro 5G/Redmi Note 12 Pro Speed",
             "maintainer_name": "PRIYANSHU",
             "frame": null,
             "active": true
