@@ -14,9 +14,8 @@
     "device_display_name": "Redmi Note 11 Pro+ 5G / POCO X4 Pro 5G",
     "device_display_codename": "veux/peux",
     "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/veux/",
-    "last_updated": "March 2024",
-    "version": "v10.3.1",
+    "version": "fourteen",
     "active": true,
     "customRecoveryRequired": true,
-    "xda": "https://xdaforums.com/t/rom-a14-veux-peux-official-project-matrixx-v-10-3-0-04-03-24.4647351/"
+    "xda": null
 }

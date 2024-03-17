@@ -13,10 +13,9 @@
     "release": "monthly",
     "device_display_name": "Google Pixel 7 Pro",
     "device_display_codename": "cheetah",
-    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/cheetah/Matrixx-v10.3.0-Official-cheetah-Gapps-20240305.zip/download",
-    "last_updated": "March 2024",
-    "version": "v10.3.0",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/cheetah/",
+    "version": "fourteen",
     "active": true,
     "customRecoveryRequired": true,
-    "xda": "https://xdaforums.com/t/rom-a14-pixel-7-series-matrixx-v10-3-0-gapps-03-05-2024.4654436/"
+    "xda": null
 }
