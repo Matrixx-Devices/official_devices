@@ -29,35 +29,6 @@
           "active": true
        },
        {
-          "codename": "hotdogb",
-          "vendor": "OnePlus",
-          "model": "OnePlus 7T",
-          "maintainer_name": "mukesh22584",
-          "active": true
-       },
-       {
-          "codename": "hotdog",
-          "vendor": "OnePlus",
-          "model": "OnePlus 7T pro",
-          "maintainer_name": "mukesh22584",
-          "active": true
-       },
-       {
-          "codename": "lemonade",
-          "vendor": "OnePlus",
-          "model": "OnePlus 9",
-          "maintainer_name": "mukesh22584",
-          "frame": null,
-          "active": true
-       },
-       {
-          "codename": "lemonadep",
-          "vendor": "OnePlus",
-          "model": "OnePlus 9 Pro",
-          "maintainer_name": "mukesh22584",
-          "active": true
-       },
-       {
           "codename": "gta4lwifi",
           "vendor": "Samsung",
           "model": "Galaxy Tab A7",
