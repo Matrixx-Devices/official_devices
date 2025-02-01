@@ -1,0 +1,21 @@
+{
+            "maintainer": [
+        {
+            "display_name": "NotDheeraj06",
+            "telegram": "https://t.me/NotDheeraj06",
+            "github": "https://github.com/Dheeraj3031A"
+        }
+        ],
+            "beta": false,
+            "available_versions": [
+                       "fifteen"
+                                  ],
+            "release": "monthly",
+            "device_display_name": "POCO F1",
+            "device_display_codename": "beryllium",
+            "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/beryllium/",
+            "version": "fifteen",
+            "active": true,
+            "customRecoveryRequired": true,
+            "xda": ""
+}
