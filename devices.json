@@ -118,6 +118,13 @@
       "model": "Motorola Edge 30",
       "maintainer_name": "JoséMCC",
       "active": true
+    },
+    {
+      "codename": "ginkgo",
+      "vendor": "Xiaomi",
+      "model": "Redmi Note 8/8T",
+      "maintainer_name": "Yeab",
+      "active": true
     }
   ]
 }

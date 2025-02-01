@@ -126,6 +126,15 @@
       "XDA": "undefined",
       "role": "Maintainer",
       "devices": ["dubai"]
+    },
+    {
+      "name": "Yeab",
+      "image": "https://avatars.githubusercontent.com/u/93014559?v=4",
+      "github": "ZorEl212",
+      "telegram": "k_y_c_i_i_9_1",
+      "XDA": "ZorEl212",
+      "role": "Maintainer",
+      "devices": ["ginkgo"]
     }
   ]
 }
