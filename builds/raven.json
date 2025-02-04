@@ -1,0 +1,21 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Jrcable2",
+            "telegram": "https://t.me/Jrcable2",
+            "github": "https://github.com/Jrcable1"
+        }
+    ],
+    "beta": false,
+    "available_versions": [
+        "fifteen"
+    ],
+    "release": "monthly/semi-weekly",
+    "device_display_name": "Pixel 6 Pro",
+    "device_display_codename": "raven",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/raven/",
+    "version": "fifteen",
+    "active": true,
+    "customRecoveryRequired": false,
+    "xda": null
+}

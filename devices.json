@@ -167,6 +167,13 @@
       "model": "Pixel Tablet",
       "maintainer_name": "EliteDarkKaiser",
       "active": true
-    } 
+    },
+    {
+      "codename": "raven",
+      "vendor": "Google",
+      "model": "Pixel 6 Pro",
+      "maintainer_name": "Jrcable2",
+      "active": true
+    }
   ]
 }
