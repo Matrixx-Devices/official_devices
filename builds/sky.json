@@ -1,0 +1,21 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Allan DSouza(alanpdk)",
+            "telegram": "https://t.me/alanpdk_support",
+            "github": "https://github.com/alanpdk"
+        }
+    ],
+    "beta": false,
+    "available_versions": [
+        "fifteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Redmi 12 5G/POCO M6 Pro 5G",
+    "device_display_codename": "sky",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/sky/",
+    "version": "fifteen",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}
