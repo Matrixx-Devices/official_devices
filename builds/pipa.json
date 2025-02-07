@@ -1,0 +1,21 @@
+{
+    "maintainer": [
+        {
+            "display_name": "CuriousNom",
+            "telegram": "https://t.me/CuriousNom",
+            "github": "https://github.com/CuriousNom"
+        }
+    ],
+    "beta": false,
+    "available_versions": [
+        "fifteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Xiaomi Pad 6",
+    "device_display_codename": "pipa",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/pipa/",
+    "version": "fifteen",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}
