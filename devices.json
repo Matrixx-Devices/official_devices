@@ -209,6 +209,13 @@
       "model": "Redmi 12 5G/Redmi 12R/POCO M6 Pro 5G",
       "maintainer_name": "alanpdk",
       "active": true
+    },
+    {
+      "codename": "pipa",
+      "vendor": "Xiaomi",
+      "model": "Xiaomi Pad 6",
+      "maintainer_name": "CuriousNom",
+      "active": true
     }
   ]
 }
