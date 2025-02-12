@@ -25,7 +25,7 @@
       "codename": "stone",
       "vendor": "Xiaomi",
       "model": "Redmi Note 12 / POCO X5 5G",
-      "maintainer_name": "Arijit Saha",
+      "maintainer_name": ["Khnome", "Mayuresh"],
       "active": true
     },
     {

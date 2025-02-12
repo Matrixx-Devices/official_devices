@@ -1,20 +1,20 @@
 {
     "maintainer": [
         {
-            "display_name": "ARIJIT-SAHA",
-            "telegram": "",
-            "github": ""
+            "display_name": ["Khnome", "Mayuresh"],
+            "telegram": "https://t.me/team_buildbotchat",
+            "github": "https://github.com/Khnome"
         }
     ],
     "beta": false,
     "available_versions": [
-        "fourteen"
+        "fifteen"
     ],
     "release": "monthly",
     "device_display_name": "POCO X5 5G/Redmi Note 12",
     "device_display_codename": "stone",
-    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/stone/",
-    "version": "fourteen",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/stone/",
+    "version": "fifteen",
     "active": true,
     "customRecoveryRequired": true,
     "xda": null
