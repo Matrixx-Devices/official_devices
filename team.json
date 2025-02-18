@@ -279,5 +279,14 @@
       "role": "Maintainer",
       "devices": ["stone"]
     }
+    {
+      "name": "Musafir02",
+      "image": "https://avatars.githubusercontent.com/u/183203526?v=4",
+      "github": "Musafir02",
+      "telegram": "Musafir1875",
+      "XDA": "",
+      "role": "Maintainer",
+      "devices": ["sweet"]
+    }
   ]
 }

@@ -217,5 +217,12 @@
       "maintainer_name": "CuriousNom",
       "active": true
     }
+    {
+      "codename": "sweet",
+      "vendor": "Xiaomi",
+      "model": "Redmi Note 10 Pro",
+      "maintainer_name": "Musafir02",
+      "active": true
+    }
   ]
 }
