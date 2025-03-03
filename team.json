@@ -287,6 +287,15 @@
       "XDA": "Musafir02.QM303112",
       "role": "Maintainer",
       "devices": ["sweet"]
+    },
+    {
+      "name": "Alec Chan",
+      "image": "https://avatars.githubusercontent.com/u/88945170?v=4",
+      "github": "alecchangod",
+      "telegram": "alecchangod",
+      "XDA": "alec-chan.11250565",
+      "role": "Maintainer",
+      "devices": ["monet"]
     }
   ]
 }
