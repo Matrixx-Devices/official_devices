@@ -223,6 +223,13 @@
       "model": "Redmi Note 10 Pro",
       "maintainer_name": "Musafir02",
       "active": true
+    },
+    {
+      "codename": "monet",
+      "vendor": "Xiaomi",
+      "model": "Mi 10 Lite 5G",
+      "maintainer_name": "Alec Chan",
+      "active": true
     }
   ]
 }

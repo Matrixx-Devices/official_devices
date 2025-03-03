@@ -1,0 +1,21 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Alec Chan",
+            "telegram": "https://t.me/alec_rom_support",
+            "github": "https://github.com/alecchangod"
+        }
+    ],
+    "beta": false,
+    "available_versions": [
+        "fifteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Mi 10 Lite 5G",
+    "device_display_codename": "monet",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/monet/",
+    "version": "fifteen",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": "https://xdaforums.com/t/rom-official-fbev2-monet-project-matrixx-v11-android-15.4722298/"
+}
