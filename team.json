@@ -296,6 +296,15 @@
       "XDA": "alec-chan.11250565",
       "role": "Maintainer",
       "devices": ["monet"]
-    }
+    },
+    {
+      "name": "Sk Abdullah",
+      "image": "https://avatars.githubusercontent.com/u/73443260?v=4",
+      "github": "Addy-95",
+      "telegram": "Lemonad95",
+      "XDA": "addy-95.11631009",
+      "role": "Maintainer",
+      "devices": ["lemonade", "lemonadep"]
+    }    
   ]
 }

@@ -230,6 +230,20 @@
       "model": "Mi 10 Lite 5G",
       "maintainer_name": "Alec Chan",
       "active": true
+    },
+    {
+      "codename": "lemonade",
+      "vendor": "OnePlus",
+      "model": "OnePlus 9",
+      "maintainer_name": "Addy-95",
+      "active": true
+    },
+    {
+      "codename": "lemonadep",
+      "vendor": "OnePlus",
+      "model": "OnePlus 9 Pro",
+      "maintainer_name": "Addy-95",
+      "active": true
     }
   ]
 }

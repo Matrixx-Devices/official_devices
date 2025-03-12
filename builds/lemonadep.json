@@ -1,0 +1,21 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Addy-95",
+            "telegram": "https://t.me/Addy_RomHub",
+            "github": "https://github.com/Addy-95"
+        }
+    ],
+    "beta": false,
+    "available_versions": [
+        "fifteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "OnePlus 9 Pro",
+    "device_display_codename": "lemonadep",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/lemonadep/",
+    "version": "fifteen",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}
