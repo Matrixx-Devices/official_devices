@@ -244,6 +244,13 @@
       "model": "OnePlus 9 Pro",
       "maintainer_name": "Addy-95",
       "active": true
+    },
+    {
+      "codename": "haydn",
+      "vendor": "Xiaomi",
+      "model": "Xiaomi 11X Pro",
+      "maintainer_name": "AntiMiui",
+      "active": true
     }
   ]
 }
