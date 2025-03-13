@@ -1,0 +1,21 @@
+{
+    "maintainer": [
+        {
+            "display_name": "AntiMiui",
+            "telegram": "https://t.me/ashbuildsupport",
+            "github": "https://github.com/1xtAsh"
+        }
+    ],
+    "beta": false,
+    "available_versions": [
+        "fifteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Xiaomi 11X Pro",
+    "device_display_codename": "haydn",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/haydn/",
+    "version": "fifteen",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}

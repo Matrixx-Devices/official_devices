@@ -305,6 +305,15 @@
       "XDA": "addy-95.11631009",
       "role": "Maintainer",
       "devices": ["lemonade", "lemonadep"]
-    }    
+    },
+    {
+      "name": "AntiMiui",
+      "image": "https://avatars.githubusercontent.com/u/80560455?v=4",
+      "github": "1xtAsh",
+      "telegram": "Anti_MiUi",
+      "XDA": "",
+      "role": "Maintainer",
+      "devices": ["haydn"]
+    }   
   ]
 }
