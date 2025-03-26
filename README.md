@@ -54,7 +54,7 @@
 <summary><b>Resources and Links:</b> :arrow_down: </summary>
 
 * [**Rom Sources**](https://github.com/ProjectMatrixx)
-* [**XDA Template**](https://raw.githubusercontent.com/ProjectMatrixx/Assets/14.0/XDA-template.txt)
+* [**XDA Template**](https://raw.githubusercontent.com/ProjectMatrixx/Assets/refs/heads/15.0/XDA-template.txt)
 
 </details>
 
