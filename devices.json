@@ -40,7 +40,7 @@
       "vendor": "Samsung",
       "model": "Galaxy Tab A7",
       "maintainer_name": "CuriousNom",
-      "active": true
+      "active": false
     },
     {
       "codename": "beryllium",
