@@ -1,0 +1,21 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Lord Itachi",
+            "telegram": "https://t.me/manid_reddy",
+            "github": "https://github.com/manidweep"
+        }
+    ],
+    "beta": false,
+    "available_versions": [
+        "fifteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "OnePlus 8 Pro",
+    "device_display_codename": "instantnoodlep",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/instantnoodlep/",
+    "version": "fifteen",
+    "active": true,
+    "customRecoveryRequired": false,
+    "xda": null
+}

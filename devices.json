@@ -239,6 +239,34 @@
       "active": true
     },
     {
+      "codename": "instantnoodle",
+      "vendor": "OnePlus",
+      "model": "OnePlus 8",
+      "maintainer_name": "Lord Itachi",
+      "active": true
+    },
+    {
+      "codename": "instantnoodlep",
+      "vendor": "OnePlus",
+      "model": "OnePlus 8 Pro",
+      "maintainer_name": "Lord Itachi",
+      "active": true
+    },
+    {
+      "codename": "kebab",
+      "vendor": "OnePlus",
+      "model": "OnePlus 8T",
+      "maintainer_name": "Lord Itachi",
+      "active": true
+    },
+    {
+      "codename": "lemonades",
+      "vendor": "OnePlus",
+      "model": "OnePlus 9R",
+      "maintainer_name": "Lord Itachi",
+      "active": true
+    },
+    {
       "codename": "lemonade",
       "vendor": "OnePlus",
       "model": "OnePlus 9",
