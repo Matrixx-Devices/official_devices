@@ -286,6 +286,13 @@
       "model": "Xiaomi 11X Pro",
       "maintainer_name": "AntiMiui",
       "active": true
+    },
+    {
+      "codename": "phoenix",
+      "vendor": "Xiaomi",
+      "model": "Poco X2 | Redmi k30",
+      "maintainer_name": "tillua467",
+      "active": true
     }
   ]
 }

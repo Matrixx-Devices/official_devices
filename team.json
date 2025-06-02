@@ -332,6 +332,15 @@
       "XDA": "",
       "role": "Maintainer",
       "devices": ["haydn"]
-    }   
+    },
+    {
+      "name": "tillua467",
+      "image": "https://avatars.githubusercontent.com/u/128046674?v=4",
+      "github": "tillua467",
+      "telegram": "tillua467",
+      "XDA": "https://xdaforums.com/m/tillua467.12715179/",
+      "role": "Maintainer",
+      "devices": ["phoenix", "phoenixin"]
+    }
   ]
 }
