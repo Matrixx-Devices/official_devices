@@ -11,11 +11,11 @@
         "fifteen"
     ],
     "release": "monthly",
-    "device_display_name": "Xiaomi Poco X2 | Redmi k30",
+    "device_display_name": "Xiaomi Poco X2/Redmi k30",
     "device_display_codename": "phoenix",
-    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/phoenix/Matrixx-v11.5.0-Official-phoenix-Gapps-20250601-1119.zip/download",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/phoenix/Matrixx-v11.6.0-Official-phoenix-Gapps-202506230435.zip/download",
     "version": "fifteen",
     "active": true,
     "customRecoveryRequired": true,
-    "xda": "https://xdaforums.com/t/rom-official-phoenix-poco-x2-redmi-k30-4g-matrixx-os.4741446/"
+    "xda": "https://xdaforums.com/t/rom-official-phoenix-poco-x2-redmi-k30-4g-matrixx-os-11-6-0.4745825/"
 }
