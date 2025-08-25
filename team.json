@@ -339,6 +339,15 @@
       "XDA": "https://xdaforums.com/m/tillua467.12715179/",
       "role": "Maintainer",
       "devices": ["phoenix", "phoenixin"]
+    },
+    {
+      "name": "shoya0x00",
+      "image": "https://avatars.githubusercontent.com/u/57263989?v=4",
+      "github": "shoya0x00",
+      "telegram": "braindead55",
+      "XDA": "hhttps://xdaforums.com/m/shoya0x00.12858905/",
+      "role": "Maintainer",
+      "devices": ["surya", "karna"]
     }
   ]
 }

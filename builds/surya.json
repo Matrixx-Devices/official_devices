@@ -1,0 +1,21 @@
+{
+    "maintainer": [
+        {
+            "display_name": "shoya0x00",
+            "telegram": "https://t.me/braindead55",
+            "github": "https://github.com/shoya0x00"
+        }
+    ],
+    "beta": false,
+    "available_versions": [
+        "fifteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "POCO X3/NFC",
+    "device_display_codename": "surya",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/surya/",
+    "version": "fifteen",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}
