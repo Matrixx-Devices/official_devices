@@ -293,6 +293,13 @@
       "model": "Poco X2/Redmi k30",
       "maintainer_name": "tillua467",
       "active": true
+    },
+    {
+      "codename": "surya",
+      "vendor": "Xiaomi",
+      "model": "POCO X3/NFC",
+      "maintainer_name": "shoya0x00",
+      "active": true
     }
   ]
 }
