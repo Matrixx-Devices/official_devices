@@ -300,6 +300,13 @@
       "model": "POCO X3/NFC",
       "maintainer_name": "shoya0x00",
       "active": true
+    },
+    {
+      "codename": "giulia",
+      "vendor": "OnePlus",
+      "model": "OnePlus 13R / Ace 5",
+      "maintainer_name": "Arijit Saha",
+      "active": true
     }
   ]
 }

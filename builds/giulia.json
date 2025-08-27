@@ -1,0 +1,21 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Arijit Saha",
+            "telegram": "https://t.me/whyred_404",
+            "github": "https://github.com/Arijit78"
+        }
+    ],
+    "beta": false,
+    "available_versions": [
+        "fifteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "OnePlus 13R / Ace 5",
+    "device_display_codename": "giulia",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/giulia/",
+    "version": "fifteen",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}
