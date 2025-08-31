@@ -308,5 +308,12 @@
       "maintainer_name": "Arijit Saha",
       "active": true
     }
+    {
+    "codename": "raphael",
+            "vendor": "Xiaomi",
+            "model": "Xiaomi Mi 9T Pro/Redmi K20 Pro",
+            "maintainer_name": "Bulla03x",
+            "active": true
+    }
   ]
 }

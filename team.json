@@ -349,5 +349,14 @@
       "role": "Maintainer",
       "devices": ["surya", "karna"]
     }
+    {
+      "name": "Bulla03x",
+      "image": "https://avatars.githubusercontent.com/u/176202708?s=48&v=4",
+      "github": "bulla0x",
+      "telegram": "Bulla03x",
+      "XDA": "",
+      "role": "Maintainer",
+      "devices": ["raphael"]
+    }
   ]
 }
