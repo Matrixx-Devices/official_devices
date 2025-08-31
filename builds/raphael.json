@@ -1,22 +1,21 @@
-
 {
-            "maintainer": [
+    "maintainer": [
         {
             "display_name": "Bulla03x",
             "telegram": "https://t.me/Bulla03x",
             "github": "https://github.com/bulla0x"
         }
-        ],
-            "beta": false,
-            "available_versions": [
-                       "fifteen"
-                                  ],
-            "release": "monthly",
-            "device_display_name": "Xiaomi Mi 9T Pro/Redmi K20 Pro",
-            "device_display_codename": "raphael",
-            "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/raphael/",
-            "version": "fifteen",
-            "active": true,
-            "customRecoveryRequired": true,
-            "xda": null
-        }
+    ],
+    "beta": false,
+    "available_versions": [
+        "fifteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Xiaomi Mi 9T Pro/Redmi K20 Pro",
+    "device_display_codename": "raphael",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/raphael",
+    "version": "fifteen",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}
