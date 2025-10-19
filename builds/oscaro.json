@@ -1,0 +1,21 @@
+{
+            "maintainer": [
+        {
+            "display_name": "Chethan Gowda",
+            "telegram": "https://t.me/No_Cache",
+            "github": "https://github.com/NoCache-69"
+        }
+        ],
+            "beta": false,
+            "available_versions": [
+                       "fifteen"
+                                  ],
+            "release": "monthly",
+            "device_display_name": "OnePlus Nord CE2 Lite 5G",
+            "device_display_codename": "oscaro",
+            "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/oscaro/",
+            "version": "fifteen",
+            "active": true,
+            "customRecoveryRequired": false,
+            "xda": ""
+}

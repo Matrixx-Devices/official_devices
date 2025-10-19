@@ -309,11 +309,18 @@
       "active": true
     },
     {
-    "codename": "raphael",
-    "vendor": "Xiaomi",
-    "model": "Xiaomi Mi 9T Pro/Redmi K20 Pro",
-    "maintainer_name": "Bulla03x",
-    "active": true
+      "codename": "raphael",
+      "vendor": "Xiaomi",
+      "model": "Xiaomi Mi 9T Pro/Redmi K20 Pro",
+      "maintainer_name": "Bulla03x",
+      "active": true
+    },
+    {
+      "codename": "oscaro",
+      "vendor": "OnePlus",
+      "model": "OnePlus Nord CE2 Lite 5G",
+      "maintainer_name": "Chethan Gowda",
+      "active": true
     }
   ]
 }
