@@ -357,6 +357,15 @@
       "XDA": "",
       "role": "Maintainer",
       "devices": ["raphael"]
+    },
+    {
+      "name": "Chethan Gowda",
+      "image": "https://avatars.githubusercontent.com/u/185577308?v=4",
+      "github": "NoCache-69",
+      "telegram": "No_Cache",
+      "XDA": "",
+      "role": "Maintainer",
+      "devices": ["oscaro"]
     }
   ]
 }
