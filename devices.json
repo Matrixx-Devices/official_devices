@@ -302,13 +302,6 @@
       "active": true
     },
     {
-      "codename": "giulia",
-      "vendor": "OnePlus",
-      "model": "OnePlus 13R / Ace 5",
-      "maintainer_name": "Arijit Saha",
-      "active": true
-    },
-    {
       "codename": "raphael",
       "vendor": "Xiaomi",
       "model": "Xiaomi Mi 9T Pro/Redmi K20 Pro",
