@@ -123,7 +123,7 @@
       "telegram": "NotDheeraj06",
       "XDA": "Dheeraj3031A",
       "role": "Maintainer",
-      "devices": ["beryllium"]
+      "devices": ["beryllium", "dubai"]
     },
     {
       "name": "Mohammad Kibria",
@@ -133,15 +133,6 @@
       "XDA": "kibria123.11484159",
       "role": "Maintainer",
       "devices": ["garnet"]
-    },
-    {
-      "name": "JoséMCC",
-      "image": "https://avatars.githubusercontent.com/u/170624623?v=4",
-      "github": "JoseMCCGit",
-      "telegram": "josemcc0705",
-      "XDA": "undefined",
-      "role": "Maintainer",
-      "devices": ["dubai"]
     },
     {
       "name": "Yeab",
