@@ -8,13 +8,13 @@
         ],
             "beta": false,
             "available_versions": [
-                       "fifteen"
+                       "sixteen"
                                   ],
             "release": "monthly",
             "device_display_name": "Motorola Edge 30",
             "device_display_codename": "dubai",
-            "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/dubai/",
-            "version": "fifteen",
+            "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/dubai/",
+            "version": "sixteen",
             "active": true,
             "customRecoveryRequired": true,
             "xda": null
