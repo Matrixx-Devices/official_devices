@@ -1,0 +1,21 @@
+{
+  "maintainer": [
+      {
+          "display_name": "Lowxorx",
+          "telegram": "https://t.me/Lowxorx",
+          "github": "https://github.com/Lowxorx"
+      }
+  ],
+  "beta": false,
+  "available_versions": [
+      "sixteen"
+  ],
+  "release": "monthly",
+  "device_display_name": "POCO F7 Pro",
+  "device_display_codename": "zorn",
+  "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/zorn/",
+  "version": "sixteen",
+  "active": true,
+  "customRecoveryRequired": true,
+  "xda": null
+}
