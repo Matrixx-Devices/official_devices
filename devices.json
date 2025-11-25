@@ -314,6 +314,13 @@
       "model": "OnePlus Nord CE2 Lite 5G",
       "maintainer_name": "Chethan Gowda",
       "active": true
+    },
+    {
+      "codename": "zorn",
+      "vendor": "Xiaomi",
+      "model": "POCO F7 Pro",
+      "maintainer_name": "Lowxorx",
+      "active": true
     }
   ]
 }
