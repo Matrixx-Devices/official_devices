@@ -5,7 +5,7 @@
       "vendor": "Xiaomi",
       "model": "Redmi note 9s/pro/pro max/10 lite/poco m2 pro",
       "maintainer_name": "AFIF",
-      "active": true
+      "active": false
     },
     {
       "codename": "alioth",
@@ -40,7 +40,7 @@
       "vendor": "Xiaomi",
       "model": "Redmi Note 5",
       "maintainer_name": "Arijit Saha",
-      "active": true
+      "active": false
     },
     {
       "codename": "gta4lwifi",
@@ -138,7 +138,7 @@
       "vendor": "Xiaomi",
       "model": "Redmi Note 8/8T",
       "maintainer_name": "Yeab",
-      "active": true
+      "active": false
     },
     {
       "codename": "mondrian",
@@ -152,7 +152,7 @@
       "vendor": "Nothing",
       "model": "Nothing Phone (2)",
       "maintainer_name": "Drishal & Ghost",
-      "active": true
+      "active": false
     },
     {
       "codename": "spes",
@@ -166,28 +166,28 @@
       "vendor": "Realme",
       "model": "Realme GT 5G",
       "maintainer_name": "MNoxx74",
-      "active": true
+      "active": false
     },
     {
       "codename": "tangorpro",
       "vendor": "Google",
       "model": "Pixel Tablet",
       "maintainer_name": "EliteDarkKaiser",
-      "active": true
+      "active": false
     },
     {
       "codename": "raven",
       "vendor": "Google",
       "model": "Pixel 6 Pro",
       "maintainer_name": "Jrcable2",
-      "active": true
+      "active": false
     },
     {
       "codename": "vili",
       "vendor": "Xiaomi",
       "model": "Xiaomi 11T Pro",
       "maintainer_name": "swiitchOFF",
-      "active": true
+      "active": false
     },
     {
       "codename": "marble",
@@ -215,14 +215,14 @@
       "vendor": "Xiaomi",
       "model": "Redmi 12 5G/Redmi 12R/POCO M6 Pro 5G",
       "maintainer_name": "kAiF",
-      "active": true
+      "active": false
     },
     {
       "codename": "pipa",
       "vendor": "Xiaomi",
       "model": "Xiaomi Pad 6",
       "maintainer_name": "CuriousNom",
-      "active": true
+      "active": false
     },
     {
       "codename": "sweet",
@@ -271,14 +271,14 @@
       "vendor": "OnePlus",
       "model": "OnePlus 9",
       "maintainer_name": "Team-Matrixx",
-      "active": true
+      "active": false
     },
     {
       "codename": "lemonadep",
       "vendor": "OnePlus",
       "model": "OnePlus 9 Pro",
       "maintainer_name": "Team-Matrixx",
-      "active": true
+      "active": false
     },
     {
       "codename": "haydn",
