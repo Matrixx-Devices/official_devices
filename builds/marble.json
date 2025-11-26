@@ -8,13 +8,13 @@
     ],
     "beta": false,
     "available_versions": [
-        "fifteen"
+        "sixteen"
     ],
     "release": "monthly",
     "device_display_name": "Poco F5/Redmi Note 12 Turbo",
     "device_display_codename": "marble",
-    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/marble/",
-    "version": "fifteen",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/marble/",
+    "version": "sixteen",
     "active": true,
     "customRecoveryRequired": true,
     "xda": null
