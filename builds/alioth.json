@@ -8,13 +8,13 @@
     ],
     "beta": false,
     "available_versions": [
-        "fifteen"
+        "sixteen"
     ],
     "release": "monthly",
     "device_display_name": "Poco F3/K40/Mi 11X",
     "device_display_codename": "alioth",
-    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-15/alioth/",
-    "version": "fifteen",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/alioth/",
+    "version": "sixteen",
     "active": true,
     "customRecoveryRequired": true,
     "xda": null
