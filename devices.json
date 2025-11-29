@@ -40,7 +40,7 @@
       "vendor": "Xiaomi",
       "model": "Redmi Note 5",
       "maintainer_name": "Arijit Saha",
-      "active": false
+      "active": true
     },
     {
       "codename": "gta4lwifi",
