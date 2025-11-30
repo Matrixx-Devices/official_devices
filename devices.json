@@ -328,6 +328,13 @@
       "model": "Realme X50 Pro 5G",
       "maintainer_name": "AAMIR ALI",
       "active": true
+    },
+    {
+      "codename": "bangkk",
+      "vendor": "Motorola",
+      "model": "Moto G84",
+      "maintainer_name": "Aryan S",
+      "active": true
     }
   ]
 }

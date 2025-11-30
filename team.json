@@ -358,6 +358,15 @@
       "XDA": "",
       "role": "Maintainer",
       "devices": ["oscaro"]
+    },
+    {
+     "name": "Aryan S",
+     "image": "https://avatars.githubusercontent.com/u/235685601?v=4",
+     "github": "ARYANGODxDOfficial",
+     "telegram": "aryangodxdoff",
+     "XDA": "aryangodxdoff",
+     "role": "Maintainer",
+     "devices": ["bangkk"]
     }
   ]
 }
