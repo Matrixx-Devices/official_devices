@@ -367,6 +367,15 @@
      "XDA": "aryangodxdoff",
      "role": "Maintainer",
      "devices": ["bangkk"]
+    },
+    {
+     "name": "OscarM1019XBrianOP13",
+     "image": "https://avatars.githubusercontent.com/u/60859796?v=4",
+     "github": "osm1019",
+     "telegram": "OscarM1019",
+     "XDA": "osm1019",
+     "role": "Maintainer",
+     "devices": ["dodge"]
     }
   ]
 }

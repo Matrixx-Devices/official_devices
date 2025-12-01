@@ -335,6 +335,13 @@
       "model": "Moto G84",
       "maintainer_name": "Aryan S",
       "active": true
+    },
+    {
+      "codename": "dodge",
+      "vendor": "OnePlus",
+      "model": "OnePlus13",
+      "maintainer_name": "OscarM1019xBrianOP13",
+      "active": true
     }
   ]
 }
