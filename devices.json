@@ -222,7 +222,7 @@
       "vendor": "Xiaomi",
       "model": "Xiaomi Pad 6",
       "maintainer_name": "CuriousNom",
-      "active": false
+      "active": true
     },
     {
       "codename": "sweet",
