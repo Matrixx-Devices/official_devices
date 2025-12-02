@@ -32,14 +32,6 @@
       "role": "Retired Core member"
     },
     {
-      "name": "Mrick343",
-      "image": "https://avatars.githubusercontent.com/u/85066116?v=4",
-      "github": "Mrick343",
-      "telegram": "Mrick343",
-      "XDA": "mrick343.12517809",
-      "role": "Inactive Core-Member"
-    },
-    {
       "name": "Hardik",
       "image": "https://i.imgur.com/fCgGDRV.png",
       "telegram": "Hardik1st",
@@ -71,6 +63,15 @@
       "XDA": "aamirr-ali.12795278",
       "role": "Core-Member,Maintainer & Admin",
       "devices": ["bladerunner"]
+    },
+    {
+      "name": "Mrick343",
+      "image": "https://avatars.githubusercontent.com/u/85066116?v=4",
+      "github": "Mrick343",
+      "telegram": "Mrick343",
+      "XDA": "mrick343.12517809",
+      "role": "Core-Member & Maintainer",
+      "devices": ["lemonade", "lemonadep"]
     },
     {
       "name": "Arijit Saha",
