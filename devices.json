@@ -271,14 +271,14 @@
       "vendor": "OnePlus",
       "model": "OnePlus 9",
       "maintainer_name": "Mrick343",
-      "active": false
+      "active": true
     },
     {
       "codename": "lemonadep",
       "vendor": "OnePlus",
       "model": "OnePlus 9 Pro",
       "maintainer_name": "Mrick343",
-      "active": false
+      "active": true
     },
     {
       "codename": "haydn",
