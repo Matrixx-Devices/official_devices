@@ -349,6 +349,20 @@
       "model": "Pixel 9 Pro XL",
       "maintainer_name": "GamerBoy1234294",
       "active": true
+    },
+    {
+      "codename": "caiman",
+      "vendor": "Google",
+      "model": "Pixel 9 Pro",
+      "maintainer_name": "GamerBoy1234294",
+      "active": true
+    },
+    {
+      "codename": "tokay",
+      "vendor": "Google",
+      "model": "Pixel 9",
+      "maintainer_name": "GamerBoy1234294",
+      "active": true
     }
   ]
 }
