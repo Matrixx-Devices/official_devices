@@ -342,6 +342,13 @@
       "model": "OnePlus13",
       "maintainer_name": "OscarM1019xBrianOP13",
       "active": true
+    },
+    {
+      "codename": "komodo",
+      "vendor": "Google",
+      "model": "Pixel 9 Pro XL",
+      "maintainer_name": "GamerBoy1234294",
+      "active": true
     }
   ]
 }

@@ -377,6 +377,15 @@
      "XDA": "osm1019",
      "role": "Maintainer",
      "devices": ["dodge"]
+    },
+    {
+     "name": "GamerBoy1234294",
+     "image": "https://avatars.githubusercontent.com/u/97483939?v=4",
+     "github": "Trijal08",
+     "telegram": "GamerBoy1234294",
+     "XDA": "CustomCustomROMLover",
+     "role": "Maintainer",
+     "devices": ["komodo", "caiman", "tokay"]
     }
   ]
 }
