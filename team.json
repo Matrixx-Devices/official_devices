@@ -83,15 +83,6 @@
       "devices": ["whyred"]
     },
     {
-      "name": "Priyanshu Jangid",
-      "image": "https://i.imgur.com/pRoiYcB.jpg",
-      "github": "thepriyanshujangid",
-      "telegram": "thepriyanshujangid",
-      "XDA": "priyanshu-jangid.10108762",
-      "role": "Maintainer",
-      "devices": ["redwood"]
-    },
-    {
       "name": "Aryan Biswas",
       "image": "https://avatars.githubusercontent.com/u/152459091?v=4",
       "github": "CuriousNom",
@@ -108,15 +99,6 @@
       "XDA": "",
       "role": "Maintainer",
       "devices": ["instantnoodle","instantnoodlep","kebab","lemonades"]
-    },
-    {
-      "name": "Aswin OP",
-      "image": "https://avatars.githubusercontent.com/u/128906250?v=4",
-      "github": "AswinOP",
-      "telegram": "iaswinop",
-      "XDA": "aswinop.12752366",
-      "role": "Maintainer",
-      "devices": ["veux"]
     },
     {
       "name": "NotDheeraj06",
@@ -200,33 +182,6 @@
       "devices": ["cupidr"]
     },
     {
-      "name": "Austin Young",
-      "image": "https://avatars.githubusercontent.com/u/3998633?v=4",
-      "github": "austineyoung2000",
-      "telegram": "EliteDarkKaiser",
-      "XDA": "EliteDarkKaiser",
-      "role": "Maintainer",
-      "devices": ["tangorpro"]
-    },
-    {
-      "name": "James Cable",
-      "image": "https://avatars.githubusercontent.com/u/438772?v=4",
-      "github": "Jrcable1",
-      "telegram": "Jrcable2",
-      "XDA": "jamescable.3604271",
-      "role": "Maintainer",
-      "devices": ["raven"]
-   },
-   {
-      "name": "swiitchOFF",
-      "image": "https://avatars.githubusercontent.com/u/120115258?v=4",
-      "github": "swiitchOFF",
-      "telegram": "swiitchOFF",
-      "XDA": "swiitchoff.12717063",
-      "role": "Maintainer",
-      "devices": ["vili"]
-    },
-    {
       "name": "CHAITANYA",
       "image": "https://i.imgur.com/fuvuWKl.jpeg",
       "github": "chaitanyakm",
@@ -254,15 +209,6 @@
       "devices": ["salaa"]
     },
     {
-      "name": "kAiF",
-      "image": "https://avatars.githubusercontent.com/u/209830895?v=4",
-      "github": "askthekaif",
-      "telegram": "kAiF_00z",
-      "XDA": "",
-      "role": "Maintainer",
-      "devices": ["sky"]
-    },
-    {
       "name": "Khnome",
       "image": "https://avatars.githubusercontent.com/u/75486623?v=4",
       "github": "Khnome",
@@ -280,15 +226,6 @@
       "XDA": "",
       "role": "Maintainer",
       "devices": ["stone"]
-    },
-    {
-      "name": "Musafir02",
-      "image": "https://avatars.githubusercontent.com/u/183203526?v=4",
-      "github": "Musafir02",
-      "telegram": "Musafir1875",
-      "XDA": "Musafir02.QM303112",
-      "role": "Maintainer",
-      "devices": ["sweet"]
     },
     {
       "name": "Alec Chan",
@@ -332,15 +269,6 @@
       "XDA": "https://xdaforums.com/m/tillua467.12715179/",
       "role": "Maintainer",
       "devices": ["phoenix", "phoenixin"]
-    },
-    {
-      "name": "shoya0x00",
-      "image": "https://avatars.githubusercontent.com/u/57263989?v=4",
-      "github": "shoya0x00",
-      "telegram": "braindead55",
-      "XDA": "hhttps://xdaforums.com/m/shoya0x00.12858905/",
-      "role": "Maintainer",
-      "devices": ["surya", "karna"]
     },
     {
       "name": "Bulla03x",

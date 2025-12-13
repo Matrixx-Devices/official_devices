@@ -4,7 +4,7 @@
       "codename": "miatoll",
       "vendor": "Xiaomi",
       "model": "Redmi note 9s/pro/pro max/10 lite/poco m2 pro",
-      "maintainer_name": "AFIF",
+      "maintainer_name": "",
       "active": false
     },
     {
@@ -46,7 +46,7 @@
       "codename": "gta4lwifi",
       "vendor": "Samsung",
       "model": "Galaxy Tab A7",
-      "maintainer_name": "CuriousNom",
+      "maintainer_name": "",
       "active": false
     },
     {
@@ -137,14 +137,14 @@
       "codename": "ginkgo",
       "vendor": "Xiaomi",
       "model": "Redmi Note 8/8T",
-      "maintainer_name": "Yeab",
+      "maintainer_name": "",
       "active": false
     },
     {
       "codename": "mondrian",
       "vendor": "Xiaomi",
       "model": "POCO F5 Pro",
-      "maintainer_name": "Lowxorx",
+      "maintainer_name": "",
       "active": false
     },
     {
@@ -152,7 +152,7 @@
       "vendor": "Nothing",
       "model": "Nothing Phone (2)",
       "maintainer_name": "Drishal & Ghost",
-      "active": false
+      "active": true
     },
     {
       "codename": "spes",
@@ -165,28 +165,28 @@
       "codename": "cupidr",
       "vendor": "Realme",
       "model": "Realme GT 5G",
-      "maintainer_name": "MNoxx74",
+      "maintainer_name": "",
       "active": false
     },
     {
       "codename": "tangorpro",
       "vendor": "Google",
       "model": "Pixel Tablet",
-      "maintainer_name": "EliteDarkKaiser",
+      "maintainer_name": "",
       "active": false
     },
     {
       "codename": "raven",
       "vendor": "Google",
       "model": "Pixel 6 Pro",
-      "maintainer_name": "Jrcable2",
+      "maintainer_name": "",
       "active": false
     },
     {
       "codename": "vili",
       "vendor": "Xiaomi",
       "model": "Xiaomi 11T Pro",
-      "maintainer_name": "swiitchOFF",
+      "maintainer_name": "",
       "active": false
     },
     {
@@ -214,7 +214,7 @@
       "codename": "sky",
       "vendor": "Xiaomi",
       "model": "Redmi 12 5G/Redmi 12R/POCO M6 Pro 5G",
-      "maintainer_name": "kAiF",
+      "maintainer_name": "",
       "active": false
     },
     {
