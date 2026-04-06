@@ -15,6 +15,13 @@
       "active": true
     },
     {
+      "codename": "munch",
+      "vendor": "Xiaomi",
+      "model": "POCO F4 5G",
+      "maintainer_name": "Mrick343",
+      "active": true
+    },
+    {
       "codename": "veux",
       "vendor": "Xiaomi",
       "model": "Redmi Note 11 Pro+ 5G / POCO X4 Pro 5G",

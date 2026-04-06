@@ -1,0 +1,21 @@
+{
+            "maintainer": [
+        {
+            "display_name": "Mrick343",
+            "telegram": "https://t.me/Mrick343",
+            "github": "https://github.com/Mrick343"
+        }
+        ],
+            "beta": false,
+            "available_versions": [
+                       "sixteen"
+                                  ],
+            "release": "monthly",
+            "device_display_name": "Xiaomi POCO F4 5G",
+            "device_display_codename": "munch",
+            "public_download": "",
+            "version": "sixteen",
+            "active": true,
+            "customRecoveryRequired": true,
+            "xda": null
+        }
