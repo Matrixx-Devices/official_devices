@@ -45,14 +45,14 @@
       "XDA": "",
       "role": "Developer"
     },
-    {      
-      "name": "Dark Phoenix",
-      "image": "https://avatars.githubusercontent.com/u/80503611?v=4",
-      "github": "drkphnx",
-      "telegram": "darkphnx",
-      "XDA": "",
-      "role": "Lead Core-Member and Maintainer",
-      "devices": ["alioth"]
+    {
+      "name": "Mrick343",
+      "image": "https://avatars.githubusercontent.com/u/85066116?v=4",
+      "github": "Mrick343",
+      "telegram": "Mrick343",
+      "XDA": "mrick343.12517809",
+      "role": "Lead Core-Member & Maintainer",
+      "devices": ["lemonade", "lemonadep"]
     },
     {
       "name": "RoxoR",
@@ -67,28 +67,19 @@
       "name": "AAMIR ALI",
       "image": "https://avatars.githubusercontent.com/u/78249996?v=4",
       "github": "AAMIRR-ALI",
-      "telegram": "Y_azzdan",
+      "telegram": "YAZDAN330",
       "XDA": "aamirr-ali.12795278",
       "role": "Core-Member,Maintainer & Admin",
       "devices": ["bladerunner"]
     },
-    {
-      "name": "Mrick343",
-      "image": "https://avatars.githubusercontent.com/u/85066116?v=4",
-      "github": "Mrick343",
-      "telegram": "Mrick343",
-      "XDA": "mrick343.12517809",
-      "role": "Core-Member & Maintainer",
-      "devices": ["lemonade", "lemonadep"]
-    },
-    {
-      "name": "Arijit Saha",
-      "image": "https://avatars.githubusercontent.com/u/107979673?v=4",
-      "github": "Arijit78",
-      "telegram": "whyred_404",
-      "XDA": "whyred_404.12444399",
-      "role": "Core-Member,Maintainer & Admin",
-      "devices": ["whyred"]
+    {      
+      "name": "Dark Phoenix",
+      "image": "https://avatars.githubusercontent.com/u/80503611?v=4",
+      "github": "drkphnx",
+      "telegram": "darkphnx",
+      "XDA": "",
+      "role": "X Lead Core-Member and Maintainer",
+      "devices": ["alioth"]
     },
     {
       "name": "Aryan Biswas",
@@ -97,7 +88,7 @@
       "telegram": "CuriousNom",
       "XDA": "curiousnom.12773444",
       "role": "Maintainer",
-      "devices": ["pipa", "gta4lwifi"]
+      "devices": ["pipa"]
     },
     {
       "name": "Lord Itachi",
@@ -116,15 +107,6 @@
       "XDA": "Dheeraj3031A",
       "role": "Maintainer",
       "devices": ["beryllium", "dubai"]
-    },
-    {
-      "name": "Mohammad Kibria",
-      "image": "https://avatars.githubusercontent.com/u/106745675",
-      "github": "kibria5",
-      "telegram": "kibria5",
-      "XDA": "kibria123.11484159",
-      "role": "Maintainer",
-      "devices": ["garnet"]
     },
     {
       "name": "Yeab",
@@ -151,7 +133,7 @@
       "telegram": "Drishal",
       "XDA": "drishal.7811174",
       "role": "Maintainer",
-      "devices": ["Pong"]
+      "devices": ["pong"]
     },
     {
       "name": "GHOST | ゴースト",
@@ -160,16 +142,7 @@
       "telegram": "Ghosuto7",
       "XDA": "",
       "role": "Core-Member and Maintainer",
-      "devices": ["Pong"]
-    },
-    {
-      "name": "Tanvir Hasan",
-      "image": "https://avatars.githubusercontent.com/u/43490582",
-      "github": "tanvirr007",
-      "telegram": "tanvirr007",
-      "XDA": "tanvirr007.9882553",
-      "role": "Bot developer",
-      "devices": ["spes"]
+      "devices": ["pong"]
     },
     {
       "name": "N-EX",
@@ -252,15 +225,6 @@
       "devices": ["lemonade", "lemonadep"]
     },
     {
-      "name": "AFIF",
-      "image": "https://avatars.githubusercontent.com/u/98091583?v=4",
-      "github": "Afifmomin",
-      "telegram": "Afifmomin12",
-      "XDA": "",
-      "role": "Maintainer",
-      "devices": ["miatoll"]
-    },
-    {
       "name": "AntiMiui",
       "image": "https://avatars.githubusercontent.com/u/80560455?v=4",
       "github": "1xtAsh",
@@ -286,24 +250,6 @@
       "XDA": "",
       "role": "Maintainer",
       "devices": ["raphael"]
-    },
-    {
-      "name": "Chethan Gowda",
-      "image": "https://avatars.githubusercontent.com/u/185577308?v=4",
-      "github": "NoCache-69",
-      "telegram": "No_Cache",
-      "XDA": "",
-      "role": "Maintainer",
-      "devices": ["oscaro"]
-    },
-    {
-     "name": "Aryan S",
-     "image": "https://avatars.githubusercontent.com/u/235685601?v=4",
-     "github": "ARYANGODxDOfficial",
-     "telegram": "aryangodxdoff",
-     "XDA": "aryangodxdoff",
-     "role": "Maintainer",
-     "devices": ["bangkk"]
     },
     {
      "name": "OscarM1019XBrianOP13",
