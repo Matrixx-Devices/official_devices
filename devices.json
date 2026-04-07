@@ -370,6 +370,13 @@
       "model": "Pixel 9",
       "maintainer_name": "GamerBoy1234294",
       "active": true
+    },
+    {
+      "codename": "lavender",
+      "vendor": "Xiaomi",
+      "model": "Redmi Note 7/7s",
+      "maintainer_name": "Bulla03x",
+      "active": true
     }
   ]
 }

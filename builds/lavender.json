@@ -1,0 +1,21 @@
+{
+            "maintainer": [
+        {
+            "display_name": "Bulla03x",
+            "telegram": "https://t.me/Bulla03x",
+            "github": "https://github.com/bulla0x"
+        }
+        ],
+            "beta": false,
+            "available_versions": [
+                       "sixteen"
+                                  ],
+            "release": "monthly",
+            "device_display_name": "Redmi Note 7/7s",
+            "device_display_codename": "lavender",
+            "public_download": "",
+            "version": "sixteen",
+            "active": true,
+            "customRecoveryRequired": true,
+            "xda": null
+        }
