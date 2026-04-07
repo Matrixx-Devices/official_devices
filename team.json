@@ -29,13 +29,13 @@
       "github": "mukesh22584",
       "telegram": "mukesh22584",
       "XDA": "mukesh22584.5678679",
-      "role": "Retired Core member"
+      "role": "Founder"
     },
     {
       "name": "Hardik",
       "image": "https://i.imgur.com/fCgGDRV.png",
       "telegram": "Hardik1st",
-      "role": "Website maintainer"
+      "role": "Website management"
     },
     {
       "name": "Esma3iL Magdey",
@@ -43,7 +43,7 @@
       "github": "Esma3iLMagdey",
       "telegram": "Esma3iLMagdey",
       "XDA": "",
-      "role": "Developer"
+      "role": "Bot Developer"
     },
     {
       "name": "Mrick343",
@@ -51,8 +51,8 @@
       "github": "Mrick343",
       "telegram": "Mrick343",
       "XDA": "mrick343.12517809",
-      "role": "Lead Core-Member & Maintainer",
-      "devices": ["lemonade", "lemonadep"]
+      "role": "Founder",
+      "devices": ["lemonade", "lemonadep", "munch", "vayu"]
     },
     {
       "name": "RoxoR",
@@ -60,8 +60,7 @@
       "github": "kshitij-vk",
       "telegram": "Roxor007",
       "XDA": "0_roxor_0.7090065",
-      "role": "Lead Core-Member,Maintainer & Admin",
-      "devices": ["alioth", "aliothin"]
+      "role": "Core-Member"
     },
     {
       "name": "AAMIR ALI",
@@ -69,7 +68,7 @@
       "github": "AAMIRR-ALI",
       "telegram": "YAZDAN330",
       "XDA": "aamirr-ali.12795278",
-      "role": "Core-Member,Maintainer & Admin",
+      "role": "Core-Member",
       "devices": ["bladerunner"]
     },
     {      
@@ -78,8 +77,7 @@
       "github": "drkphnx",
       "telegram": "darkphnx",
       "XDA": "",
-      "role": "X Lead Core-Member and Maintainer",
-      "devices": ["alioth"]
+      "role": "Core-Member"
     },
     {
       "name": "Aryan Biswas",
@@ -141,7 +139,7 @@
       "github": "Ghosuto",
       "telegram": "Ghosuto7",
       "XDA": "",
-      "role": "Core-Member and Maintainer",
+      "role": "Core-Member",
       "devices": ["pong"]
     },
     {
@@ -218,13 +216,6 @@
       "devices": ["monet"]
     },
     {
-      "name": "Team Matrixx",
-      "image": "https://avatars.githubusercontent.com/u/144055806?s=200&v=4",
-      "github": "ProjectMatrixx",
-      "telegram": "matrixx_community",
-      "devices": ["lemonade", "lemonadep"]
-    },
-    {
       "name": "AntiMiui",
       "image": "https://avatars.githubusercontent.com/u/80560455?v=4",
       "github": "1xtAsh",
@@ -268,6 +259,13 @@
      "XDA": "CustomCustomROMLover",
      "role": "Maintainer",
      "devices": ["komodo", "caiman", "tokay"]
+    },
+    {
+     "name": "Ritesh Sahany",
+     "image": "https://avatars.githubusercontent.com/u/108788599?v=4",
+     "github": "RiteshSahany",
+     "telegram": "RiteshSahany",
+     "role": "Website Maintainer"
     }
   ]
 }
