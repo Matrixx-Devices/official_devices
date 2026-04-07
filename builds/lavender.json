@@ -13,7 +13,7 @@
             "release": "monthly",
             "device_display_name": "Redmi Note 7/7s",
             "device_display_codename": "lavender",
-            "public_download": "",
+            "public_download": "https://get.projectmatrixx.org/folder/lavender/12.x/12.2/Matrixx-v12.2-Aurora-OFFICIAL-lavender-Vanilla-20260407-2329.zip",
             "version": "sixteen",
             "active": true,
             "customRecoveryRequired": true,
