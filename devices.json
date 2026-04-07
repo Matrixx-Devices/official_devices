@@ -1,13 +1,6 @@
 {
   "devices": [
     {
-      "codename": "miatoll",
-      "vendor": "Xiaomi",
-      "model": "Redmi note 9s/pro/pro max/10 lite/poco m2 pro",
-      "maintainer_name": "No Maintainer",
-      "active": false
-    },
-    {
       "codename": "alioth",
       "vendor": "Xiaomi",
       "model": "POCO F3/K40/Mi 11X",
@@ -22,11 +15,101 @@
       "active": true
     },
     {
-      "codename": "veux",
+      "codename": "stone",
       "vendor": "Xiaomi",
-      "model": "Redmi Note 11 Pro+ 5G / POCO X4 Pro 5G",
-      "maintainer_name": "No Maintainer",
-      "active": false
+      "model": "Redmi Note 12 5G / POCO X5 5G",
+      "maintainer_name": ["Khnome", "Mayuresh"],
+      "active": true
+    },
+    {
+      "codename": "marble",
+      "vendor": "Xiaomi",
+      "model": "POCO F5/Redmi note 12 turbo",
+      "maintainer_name": "CHAITANYA",
+      "active": true
+    },
+    {
+      "codename": "peridot",
+      "vendor": "Xiaomi",
+      "model": "POCO F6/Redmi Turbo 3",
+      "maintainer_name": "kibria5",
+      "active": true
+    },
+    {
+      "codename": "spes",
+      "vendor": "Xiaomi",
+      "model": "Redmi Note 11/NFC",
+      "maintainer_name": "N-EX",
+      "active": true
+    },
+    {
+      "codename": "haydn",
+      "vendor": "Xiaomi",
+      "model": "Xiaomi 11X Pro",
+      "maintainer_name": "AntiMiui",
+      "active": true
+    },
+    {
+      "codename": "phoenix",
+      "vendor": "Xiaomi",
+      "model": "Poco X2/Redmi k30",
+      "maintainer_name": "tillua467",
+      "active": true
+    },
+    {
+      "codename": "surya",
+      "vendor": "Xiaomi",
+      "model": "POCO X3/NFC",
+      "maintainer_name": "shoya0x00",
+      "active": true
+    },
+    {
+      "codename": "zorn",
+      "vendor": "Xiaomi",
+      "model": "POCO F7 Pro",
+      "maintainer_name": "Lowxorx",
+      "active": true
+    },    {
+      "codename": "zorn",
+      "vendor": "Xiaomi",
+      "model": "POCO F7 Pro",
+      "maintainer_name": "Lowxorx",
+      "active": true
+    },
+    {
+      "codename": "raphael",
+      "vendor": "Xiaomi",
+      "model": "Xiaomi Mi 9T Pro/Redmi K20 Pro",
+      "maintainer_name": "Bulla03x",
+      "active": true
+    },
+    {
+      "codename": "lavender",
+      "vendor": "Xiaomi",
+      "model": "Redmi Note 7/7s",
+      "maintainer_name": "Bulla03x",
+      "active": true
+    },
+    {
+      "codename": "pipa",
+      "vendor": "Xiaomi",
+      "model": "Xiaomi Pad 6",
+      "maintainer_name": "CuriousNom",
+      "active": true
+    },
+    {
+      "codename": "sweet",
+      "vendor": "Xiaomi",
+      "model": "Redmi Note 10 Pro",
+      "maintainer_name": "Musafir02",
+      "active": true
+    },
+    {
+      "codename": "monet",
+      "vendor": "Xiaomi",
+      "model": "Mi 10 Lite 5G",
+      "maintainer_name": "Alec Chan",
+      "active": true
     },
     {
       "codename": "redwood",
@@ -36,18 +119,32 @@
       "active": false
     },
     {
-      "codename": "stone",
+      "codename": "veux",
       "vendor": "Xiaomi",
-      "model": "Redmi Note 12 5G / POCO X5 5G",
-      "maintainer_name": ["Khnome", "Mayuresh"],
-      "active": true
+      "model": "Redmi Note 11 Pro+ 5G / POCO X4 Pro 5G",
+      "maintainer_name": "No Maintainer",
+      "active": false
+    },
+    {
+      "codename": "sky",
+      "vendor": "Xiaomi",
+      "model": "Redmi 12 5G/Redmi 12R/POCO M6 Pro 5G",
+      "maintainer_name": "No Maintainer",
+      "active": false
     },
     {
       "codename": "whyred",
       "vendor": "Xiaomi",
       "model": "Redmi Note 5",
       "maintainer_name": "Arijit Saha",
-      "active": true
+      "active": false
+    },
+     {
+      "codename": "miatoll",
+      "vendor": "Xiaomi",
+      "model": "Redmi note 9s/pro/pro max/10 lite/poco m2 pro",
+      "maintainer_name": "No Maintainer",
+      "active": false
     },
     {
       "codename": "gta4lwifi",
@@ -67,6 +164,27 @@
       "codename": "garnet",
       "vendor": "Xiaomi",
       "model": "Redmi Note 13 Pro 5G/Poco X6 5G",
+      "maintainer_name": "No Maintainer",
+      "active": false
+    },
+    {
+      "codename": "ginkgo",
+      "vendor": "Xiaomi",
+      "model": "Redmi Note 8/8T",
+      "maintainer_name": "No Maintainer",
+      "active": false
+    },
+    {
+      "codename": "mondrian",
+      "vendor": "Xiaomi",
+      "model": "POCO F5 Pro",
+      "maintainer_name": "No Maintainer",
+      "active": false
+    },
+    {
+      "codename": "vili",
+      "vendor": "Xiaomi",
+      "model": "Xiaomi 11T Pro",
       "maintainer_name": "No Maintainer",
       "active": false
     },
@@ -141,16 +259,9 @@
       "active": true
     },
     {
-      "codename": "ginkgo",
-      "vendor": "Xiaomi",
-      "model": "Redmi Note 8/8T",
-      "maintainer_name": "No Maintainer",
-      "active": false
-    },
-    {
-      "codename": "mondrian",
-      "vendor": "Xiaomi",
-      "model": "POCO F5 Pro",
+      "codename": "bangkk",
+      "vendor": "Motorola",
+      "model": "Moto G84",
       "maintainer_name": "No Maintainer",
       "active": false
     },
@@ -162,52 +273,10 @@
       "active": true
     },
     {
-      "codename": "spes",
-      "vendor": "Xiaomi",
-      "model": "Redmi Note 11/NFC",
-      "maintainer_name": "N-EX",
-      "active": true
-    },
-    {
-      "codename": "cupidr",
+      "codename": "bladerunner",
       "vendor": "Realme",
-      "model": "Realme GT 5G",
-      "maintainer_name": "No Maintainer",
-      "active": false
-    },
-    {
-      "codename": "tangorpro",
-      "vendor": "Google",
-      "model": "Pixel Tablet",
-      "maintainer_name": "No Maintainer",
-      "active": false
-    },
-    {
-      "codename": "raven",
-      "vendor": "Google",
-      "model": "Pixel 6 Pro",
-      "maintainer_name": "No Maintainer",
-      "active": false
-    },
-    {
-      "codename": "vili",
-      "vendor": "Xiaomi",
-      "model": "Xiaomi 11T Pro",
-      "maintainer_name": "No Maintainer",
-      "active": false
-    },
-    {
-      "codename": "marble",
-      "vendor": "Xiaomi",
-      "model": "POCO F5/Redmi note 12 turbo",
-      "maintainer_name": "CHAITANYA",
-      "active": true
-    },
-    {
-      "codename": "peridot",
-      "vendor": "Xiaomi",
-      "model": "POCO F6/Redmi Turbo 3",
-      "maintainer_name": "kibria5",
+      "model": "Realme X50 Pro 5G",
+      "maintainer_name": "YAZZDAN330",
       "active": true
     },
     {
@@ -218,32 +287,11 @@
       "active": true
     },
     {
-      "codename": "sky",
-      "vendor": "Xiaomi",
-      "model": "Redmi 12 5G/Redmi 12R/POCO M6 Pro 5G",
+      "codename": "cupidr",
+      "vendor": "Realme",
+      "model": "Realme GT 5G",
       "maintainer_name": "No Maintainer",
       "active": false
-    },
-    {
-      "codename": "pipa",
-      "vendor": "Xiaomi",
-      "model": "Xiaomi Pad 6",
-      "maintainer_name": "CuriousNom",
-      "active": true
-    },
-    {
-      "codename": "sweet",
-      "vendor": "Xiaomi",
-      "model": "Redmi Note 10 Pro",
-      "maintainer_name": "Musafir02",
-      "active": true
-    },
-    {
-      "codename": "monet",
-      "vendor": "Xiaomi",
-      "model": "Mi 10 Lite 5G",
-      "maintainer_name": "Alec Chan",
-      "active": true
     },
     {
       "codename": "instantnoodle",
@@ -288,59 +336,10 @@
       "active": true
     },
     {
-      "codename": "haydn",
-      "vendor": "Xiaomi",
-      "model": "Xiaomi 11X Pro",
-      "maintainer_name": "AntiMiui",
-      "active": true
-    },
-    {
-      "codename": "phoenix",
-      "vendor": "Xiaomi",
-      "model": "Poco X2/Redmi k30",
-      "maintainer_name": "tillua467",
-      "active": true
-    },
-    {
-      "codename": "surya",
-      "vendor": "Xiaomi",
-      "model": "POCO X3/NFC",
-      "maintainer_name": "shoya0x00",
-      "active": true
-    },
-    {
-      "codename": "raphael",
-      "vendor": "Xiaomi",
-      "model": "Xiaomi Mi 9T Pro/Redmi K20 Pro",
-      "maintainer_name": "Bulla03x",
-      "active": true
-    },
-    {
       "codename": "oscaro",
       "vendor": "OnePlus",
       "model": "OnePlus Nord CE2 Lite 5G",
       "maintainer_name": "Chethan Gowda",
-      "active": true
-    },
-    {
-      "codename": "zorn",
-      "vendor": "Xiaomi",
-      "model": "POCO F7 Pro",
-      "maintainer_name": "Lowxorx",
-      "active": true
-    },
-    {
-      "codename": "bladerunner",
-      "vendor": "Realme",
-      "model": "Realme X50 Pro 5G",
-      "maintainer_name": "YAZZDAN330",
-      "active": true
-    },
-    {
-      "codename": "bangkk",
-      "vendor": "Motorola",
-      "model": "Moto G84",
-      "maintainer_name": "No Maintainer",
       "active": false
     },
     {
@@ -372,11 +371,18 @@
       "active": true
     },
     {
-      "codename": "lavender",
-      "vendor": "Xiaomi",
-      "model": "Redmi Note 7/7s",
-      "maintainer_name": "Bulla03x",
-      "active": true
+      "codename": "tangorpro",
+      "vendor": "Google",
+      "model": "Pixel Tablet",
+      "maintainer_name": "No Maintainer",
+      "active": false
+    },
+    {
+      "codename": "raven",
+      "vendor": "Google",
+      "model": "Pixel 6 Pro",
+      "maintainer_name": "No Maintainer",
+      "active": false
     }
   ]
 }
