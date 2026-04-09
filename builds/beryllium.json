@@ -15,7 +15,7 @@
             "device_display_codename": "beryllium",
             "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/beryllium/",
             "version": "sixteen",
-            "active": true,
+            "active": false,
             "customRecoveryRequired": true,
             "xda": ""
 }

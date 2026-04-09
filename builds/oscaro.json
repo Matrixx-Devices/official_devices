@@ -15,7 +15,7 @@
             "device_display_codename": "oscaro",
             "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/oscaro/",
             "version": "sixteen",
-            "active": true,
+            "active": false,
             "customRecoveryRequired": false,
             "xda": ""
 }

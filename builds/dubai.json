@@ -15,7 +15,7 @@
             "device_display_codename": "dubai",
             "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/dubai/",
             "version": "sixteen",
-            "active": true,
+            "active": false,
             "customRecoveryRequired": true,
             "xda": null
         }

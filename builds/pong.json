@@ -13,7 +13,7 @@
     "release": "monthly",
     "device_display_name": "Nothing Phone (2)",
     "device_display_codename": "Pong",
-    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/Pong/",
+    "public_download": "https://get.projectmatrixx.org/folder/Pong/12.x/",
     "version": "sixteen",
     "active": true,
     "customRecoveryRequired": true,

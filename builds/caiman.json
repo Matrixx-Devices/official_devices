@@ -13,7 +13,7 @@
             "release": "monthly",
             "device_display_name": "Google Pixel 9 Pro",
             "device_display_codename": "caiman",
-            "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/caiman/",
+            "public_download": "https://get.projectmatrixx.org/folder/caiman/12.x",
             "version": "sixteen",
             "active": true,
             "customRecoveryRequired": false,

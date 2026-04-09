@@ -1,8 +1,8 @@
 {
     "maintainer": [
         {
-            "display_name": "Team-Matrixx",
-            "telegram": "https://t.me/matrixx_community",
+            "display_name": "Mrick343",
+            "telegram": "https://t.me/Addy_RomHub",
             "github": "https://github.com/ProjectMatrixx"
         }
     ],
@@ -13,7 +13,8 @@
     "release": "monthly",
     "device_display_name": "OnePlus 9 Pro",
     "device_display_codename": "lemonadep",
-    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/lemonadep/",
+    "public_download": 
+"https://get.projectmatrixx.org/folder/lemonadep/12.x/",
     "version": "sixteen",
     "active": true,
     "customRecoveryRequired": true,

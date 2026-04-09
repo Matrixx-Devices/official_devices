@@ -13,7 +13,7 @@
     "release": "monthly",
     "device_display_name": "POCO X5 5G/Redmi Note 12",
     "device_display_codename": "stone",
-    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/stone/",
+    "public_download": "https://get.projectmatrixx.org/folder/stone/12.x/",
     "version": "sixteen",
     "active": true,
     "customRecoveryRequired": true,
