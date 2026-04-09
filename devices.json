@@ -4,7 +4,7 @@
       "codename": "beryllium",
       "vendor": "Xiaomi",
       "model": "POCO F1",
-      "maintainer_name": "NotDheeraj06",
+      "maintainer_name": "No Maintainer",
       "active": true
     },
     {
@@ -46,8 +46,8 @@
       "codename": "spes",
       "vendor": "Xiaomi",
       "model": "Redmi Note 11/NFC",
-      "maintainer_name": "N-EX",
-      "active": true
+      "maintainer_name": "No Maintainer",
+      "active": false
     },
     {
       "codename": "haydn",
@@ -67,15 +67,15 @@
       "codename": "surya",
       "vendor": "Xiaomi",
       "model": "POCO X3/NFC",
-      "maintainer_name": "shoya0x00",
-      "active": true
+      "maintainer_name": "No Maintainer",
+      "active": false
     },
     {
       "codename": "zorn",
       "vendor": "Xiaomi",
       "model": "POCO F7 Pro",
-      "maintainer_name": "Lowxorx",
-      "active": true
+      "maintainer_name": "No Maintainer",
+      "active": false
     },
     {
       "codename": "raphael",
@@ -95,8 +95,8 @@
       "codename": "pipa",
       "vendor": "Xiaomi",
       "model": "Xiaomi Pad 6",
-      "maintainer_name": "CuriousNom",
-      "active": true
+      "maintainer_name": "No Maintainer",
+      "active": false
     },
     {
       "codename": "sweet",
@@ -249,8 +249,8 @@
       "codename": "dubai",
       "vendor": "Motorola",
       "model": "Motorola Edge 30",
-      "maintainer_name": "NotDheeraj06",
-      "active": true
+      "maintainer_name": "No Maintainer",
+      "active": false
     },
     {
       "codename": "bangkk",

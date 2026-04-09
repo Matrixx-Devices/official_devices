@@ -2,7 +2,7 @@
 name: Official maintainer form
 about: Apply to become an Official maintainer for Project-Matrixx
 title: New maintainer
-assignees: AAMIRR-ALI, CuriousNom
+assignees: AAMIRR-ALI,chaitanyakm
 
 ---
 
