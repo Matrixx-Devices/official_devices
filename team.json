@@ -1,49 +1,12 @@
 {
   "team": [
     {
-      "name": "Rogert.T",
-      "image": "https://avatars.githubusercontent.com/u/35808625?v=4",
-      "github": "rogerdott",
-      "telegram": "Roger_T",
-      "role": "Graphics designer"
-    },
-    {
-      "name": "SuperDroidBond",
-      "image": "https://avatars.githubusercontent.com/u/29166599?v=4",
-      "github": "SuperDroidBond",
-      "telegram": "SuperDroidBond",
-      "XDA": "superdroidbond.8829870",
-      "role": "Helping hand"
-    },
-    {
-      "name": "KSSRAO",
-      "image": "https://avatars.githubusercontent.com/u/83109762?v=4",
-      "github": "kssrao13882",
-      "telegram": "kssrao13882",
-      "XDA": "kssrao13882.11649931",
-      "role": "Retired team member"
-    },
-    {
       "name": "Mukesh Singh",
       "image": "https://avatars.githubusercontent.com/u/30503355?v=4",
       "github": "mukesh22584",
       "telegram": "mukesh22584",
       "XDA": "mukesh22584.5678679",
       "role": "Founder"
-    },
-    {
-      "name": "Hardik",
-      "image": "https://i.imgur.com/fCgGDRV.png",
-      "telegram": "Hardik1st",
-      "role": "Website management"
-    },
-    {
-      "name": "Esma3iL Magdey",
-      "image": "https://avatars.githubusercontent.com/u/205892505?v=4",
-      "github": "Esma3iLMagdey",
-      "telegram": "Esma3iLMagdey",
-      "XDA": "",
-      "role": "Bot Developer"
     },
     {
       "name": "Mrick343",
@@ -80,6 +43,59 @@
       "role": "Core-Member"
     },
     {
+      "name": "GHOST | ゴースト",
+      "image": "https://avatars.githubusercontent.com/u/90827302?v=4",
+      "github": "Ghosuto",
+      "telegram": "Ghosuto7",
+      "XDA": "",
+      "role": "Core-Member",
+      "devices": ["pong"]
+    },
+    {
+      "name": "Rogert.T",
+      "image": "https://avatars.githubusercontent.com/u/35808625?v=4",
+      "github": "rogerdott",
+      "telegram": "Roger_T",
+      "role": "Graphics designer"
+    },
+    {
+      "name": "SuperDroidBond",
+      "image": "https://avatars.githubusercontent.com/u/29166599?v=4",
+      "github": "SuperDroidBond",
+      "telegram": "SuperDroidBond",
+      "XDA": "superdroidbond.8829870",
+      "role": "Helping hand"
+    },
+    {
+      "name": "KSSRAO",
+      "image": "https://avatars.githubusercontent.com/u/83109762?v=4",
+      "github": "kssrao13882",
+      "telegram": "kssrao13882",
+      "XDA": "kssrao13882.11649931",
+      "role": "Retired team member"
+    },
+    {
+      "name": "Hardik",
+      "image": "https://i.imgur.com/fCgGDRV.png",
+      "telegram": "Hardik1st",
+      "role": "Website management"
+    },
+    {
+      "name": "Esma3iL Magdey",
+      "image": "https://avatars.githubusercontent.com/u/205892505?v=4",
+      "github": "Esma3iLMagdey",
+      "telegram": "Esma3iLMagdey",
+      "XDA": "",
+      "role": "Bot Developer"
+    },
+    {
+     "name": "Ritesh Sahany",
+     "image": "https://avatars.githubusercontent.com/u/108788599?v=4",
+     "github": "RiteshSahany",
+     "telegram": "RiteshSahany",
+     "role": "Website Manager"
+    },
+    {
       "name": "Lord Itachi",
       "image": "https://avatars.githubusercontent.com/u/24755953?v=4",
       "github": "manidweep",
@@ -104,15 +120,6 @@
       "telegram": "Drishal",
       "XDA": "drishal.7811174",
       "role": "Maintainer",
-      "devices": ["pong"]
-    },
-    {
-      "name": "GHOST | ゴースト",
-      "image": "https://avatars.githubusercontent.com/u/90827302?v=4",
-      "github": "Ghosuto",
-      "telegram": "Ghosuto7",
-      "XDA": "",
-      "role": "Core-Member",
       "devices": ["pong"]
     },
     {
@@ -223,13 +230,6 @@
      "XDA": "CustomCustomROMLover",
      "role": "Maintainer",
      "devices": ["komodo", "caiman", "tokay"]
-    },
-    {
-     "name": "Ritesh Sahany",
-     "image": "https://avatars.githubusercontent.com/u/108788599?v=4",
-     "github": "RiteshSahany",
-     "telegram": "RiteshSahany",
-     "role": "Website Manager"
     }
   ]
 }
