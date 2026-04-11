@@ -377,6 +377,13 @@
       "model": "Pixel 6 Pro",
       "maintainer_name": "No Maintainer",
       "active": false
+    },
+    {
+      "codename":"violet",
+      "vendor":"Xiaomi",
+      "model":"Redmi Note 7 Pro",
+      "maintainer_name":"achu",
+      "active":true
     }
   ]
 }
