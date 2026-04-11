@@ -230,6 +230,15 @@
      "XDA": "CustomCustomROMLover",
      "role": "Maintainer",
      "devices": ["komodo", "caiman", "tokay"]
+    },
+    {
+     "name": "achu",
+     "image": "https://avatars.githubusercontent.com/u/199586364?v=4",
+     "github": "achu137",
+     "telegram": "niggaachu",
+     "XDA": "achu137.13381114",
+     "role": "Maintainer",
+     "devices": ["violet"]
     }
   ]
 }
