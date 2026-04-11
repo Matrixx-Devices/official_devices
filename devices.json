@@ -43,6 +43,13 @@
       "active": true
     },
     {
+      "codename": "onyx",
+      "vendor": "Xiaomi",
+      "model": "POCO F7/Redmi Turbo 4 Pro",
+      "maintainer_name": "SharmagRit",
+      "active": true
+    },
+    {
       "codename": "spes",
       "vendor": "Xiaomi",
       "model": "Redmi Note 11/NFC",

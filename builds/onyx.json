@@ -1,0 +1,21 @@
+{
+    "maintainer": [
+        {
+            "display_name": "SharmagRit",
+            "telegram": "https://t.me/onyx_chats",
+            "github": "https://github.com/SharmagRit"
+        }
+    ],
+    "beta": false,
+    "available_versions": [
+        "sixteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Poco F7/Redmi Turbo 4 Pro",
+    "device_display_codename": "onyx",
+    "public_download": "https://get.projectmatrixx.org/folder/onyx/12.x/",
+    "version": "sixteen",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}
