@@ -1,0 +1,21 @@
+{
+        "maintainer":[
+                {
+                        "display_name":"PARBINDAR7",
+                        "telegram":"https://t.me/ExyROM",
+                        "github":"https://github.com/Parbindar7"
+                }
+        ],
+        "beta":false,
+        "available_versions":[
+                "sixteen"
+        ],
+        "release":"monthly",
+        "device_display_name":"Samsung Galaxy M31",
+        "device_display_codename":"m31",
+        "public_download":"https://get.projectmatrixx.org/folder/m31/12.x",
+        "version":"sixteen",
+        "active":true,
+        "customRecoveryRequired":true,
+        "xda":null
+}
