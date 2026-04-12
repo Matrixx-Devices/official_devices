@@ -391,6 +391,41 @@
       "model":"Redmi Note 7 Pro",
       "maintainer_name":"achu",
       "active":true
+    },
+    {
+      "codename": "a51",
+      "vendor": "Samsung",
+      "model": "Samsung Galaxy A51",
+      "maintainer_name": "PARBINDAR7",
+      "active": true
+    },
+    {
+      "codename": "f41",
+      "vendor": "Samsung",
+      "model": "Samsung Galaxy F41",
+      "maintainer_name": "PARBINDAR7",
+      "active": true
+    },
+    {
+      "codename": "m31",
+      "vendor": "Samsung",
+      "model": "Samsung Galaxy M31",
+      "maintainer_name": "PARBINDAR7",
+      "active": true
+    },
+    {
+      "codename": "m31s",
+      "vendor": "Samsung",
+      "model": "Samsung Galaxy M31s",
+      "maintainer_name": "PARBINDAR7",
+      "active": true
+    },
+    {
+      "codename": "m21",
+      "vendor": "Samsung",
+      "model": "Samsung Galaxy M21",
+      "maintainer_name": "PARBINDAR7",
+      "active": true
     }
   ]
 }
