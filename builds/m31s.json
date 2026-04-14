@@ -13,7 +13,7 @@
         "release":"monthly",
         "device_display_name":"Samsung Galaxy M31s",
         "device_display_codename":"m31s",
-        "public_download":"https://get.projectmatrixx.org/folder/m31s/12.x",
+        "public_download":"https://get.projectmatrixx.org/folder/m31s",
         "version":"sixteen",
         "active":true,
         "customRecoveryRequired":true,
