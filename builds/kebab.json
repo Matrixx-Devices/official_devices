@@ -1,9 +1,9 @@
 {
     "maintainer": [
         {
-            "display_name": "Lord Itachi",
-            "telegram": "https://t.me/manid_reddy",
-            "github": "https://github.com/manidweep"
+            "display_name": "No Maintainer",
+            "telegram": "",
+            "github": ""
         }
     ],
     "beta": false,
@@ -15,7 +15,7 @@
     "device_display_codename": "kebab",
     "public_download": "https://get.projectmatrixx.org/folder/kebab/12.x/",
     "version": "fifteen",
-    "active": true,
+    "active": false,
     "customRecoveryRequired": false,
     "xda": null
 }
