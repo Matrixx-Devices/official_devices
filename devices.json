@@ -43,6 +43,13 @@
       "active": true
     },
     {
+      "codename": "avicii",
+      "vendor": "OnePlus",
+      "model": "OnePlus Nord",
+      "maintainer_name": "Kaveer X Sreeshankar",
+      "active": true
+    },
+    {
       "codename": "onyx",
       "vendor": "Xiaomi",
       "model": "POCO F7/Redmi Turbo 4 Pro",
