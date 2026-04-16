@@ -1,0 +1,21 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Kaveer X Sreeshankar",
+            "telegram": "https://t.me/KaveerRomFactorySupport",
+            "github": "https://github.com/SreehsankarK"
+        }
+    ],
+    "beta": false,
+    "available_versions": [
+        "sixteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "OnePlus Nord",
+    "device_display_codename": "avicii",
+    "public_download": "https://get.projectmatrixx.org/folder/avicii/12.x/",
+    "version": "sixteen",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}
