@@ -1,0 +1,21 @@
+{
+    "maintainer": [
+        {
+            "display_name": "Amrito",
+            "telegram": "https://t.me/amritoyaaps",
+            "github": "https://github.com/amritokun"
+        }
+    ],
+    "beta": false,
+    "available_versions": [
+        "sixteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G",
+    "device_display_codename": "veux",
+    "public_download": "https://get.projectmatrixx.org/folder/veux/12.x/",
+    "version": "sixteen",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}

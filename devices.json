@@ -29,6 +29,13 @@
       "active": true
     },
     {
+      "codename": "veux",
+      "vendor": "Xiaomi",
+      "model": "Redmi Note 11E Pro/Redmi Note 11 Pro 5G/POCO X4 Pro 5G",
+      "maintainer_name": ["amrito"],
+      "active": true
+    },
+    {
       "codename": "marble",
       "vendor": "Xiaomi",
       "model": "POCO F5/Redmi note 12 turbo",
