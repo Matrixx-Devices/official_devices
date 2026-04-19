@@ -13,7 +13,7 @@
             "release": "monthly",
             "device_display_name": "Google Pixel 9",
             "device_display_codename": "tokay",
-            "public_download": "https://get.projectmatrixx.org/folder/tokay/12.x",
+            "public_download": "https://get.projectmatrixx.com/folder/tokay/12.x",
             "version": "sixteen",
             "active": true,
             "customRecoveryRequired": false,

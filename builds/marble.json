@@ -13,7 +13,7 @@
     "release": "monthly",
     "device_display_name": "Poco F5/Redmi Note 12 Turbo",
     "device_display_codename": "marble",
-    "public_download": "https://get.projectmatrixx.org/folder/marble/12.x/",
+    "public_download": "https://get.projectmatrixx.com/folder/marble/12.x/",
     "version": "sixteen",
     "active": true,
     "customRecoveryRequired": true,

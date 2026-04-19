@@ -13,7 +13,7 @@
     "release": "monthly",
     "device_display_name": "Xiaomi 11X Pro",
     "device_display_codename": "haydn",
-    "public_download": "https://get.projectmatrixx.org/folder/haydn/12.x/",
+    "public_download": "https://get.projectmatrixx.com/folder/haydn/12.x/",
     "version": "sixteen",
     "active": true,
     "customRecoveryRequired": true,

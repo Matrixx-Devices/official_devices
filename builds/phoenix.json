@@ -13,7 +13,7 @@
     "release": "monthly",
     "device_display_name": "Xiaomi Poco X2/Redmi k30",
     "device_display_codename": "phoenix",
-    "public_download": "https://get.projectmatrixx.org/folder/phoenix/12.x/",
+    "public_download": "https://get.projectmatrixx.com/folder/phoenix/12.x/",
     "version": "sixteen",
     "active": true,
     "customRecoveryRequired": true,
