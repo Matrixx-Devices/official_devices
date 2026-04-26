@@ -226,13 +226,22 @@
       "devices": ["raphael", "lavender"]
     },
     {
-     "name": "OscarM1019XBrianOP13",
+     "name": "OscarM1019",
      "image": "https://avatars.githubusercontent.com/u/60859796?v=4",
      "github": "osm1019",
      "telegram": "OscarM1019",
      "XDA": "osm1019",
      "role": "Maintainer",
      "devices": ["dodge"]
+    },
+    {
+     "name": "Brian",
+     "image": "https://avatars.githubusercontent.com/u/132853552?v=4",
+     "github": "Haywood69",
+     "telegram": "Brian_OP13",
+     "XDA": "",
+     "role": "Maintainer",
+     "devices": ["dodge", "salami"]
     },
     {
      "name": "GamerBoy1234294",
