@@ -1,0 +1,21 @@
+{
+    "maintainer": [
+        {
+            "display_name": "FrEeRuNnEr4EvEr",
+            "telegram": "https://t.me/FrEeRuNnEr4EvErHeLp",
+            "github": "https://github.com/LeDrew2017"
+        }
+    ],
+    "beta": false,
+    "available_versions": [
+        "sixteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Samsung Galaxy S10",
+    "device_display_codename": "beyond1lte",
+    "public_download": "https://get.projectmatrixx.com/folder/beyond1lte/12.x/",
+    "version": "sixteen",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}
