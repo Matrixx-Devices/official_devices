@@ -1,8 +1,8 @@
 {
            "maintainer": [
         {
-            "display_name": "Brian_OP13",
-            "telegram": "https://t.me/Brian_OP13",
+            "display_name": "BrianOP13",
+            "telegram": "https://t.me/OnePlus11CustomRoms/289",
             "github": "https://github.com/Haywood69"
         }
         ],
@@ -11,8 +11,8 @@
                        "sixteen"
                                   ],
             "release": "monthly",
-            "device_display_name": "OnePlus 11",
-            "device_display_codename": "dodge",
+            "device_display_name": "OnePlus 11 5G",
+            "device_display_codename": "salami",
             "public_download": "https://get.projectmatrixx.com/folder/salami/12.x",
             "version": "sixteen",
             "active": true,
