@@ -1,0 +1,21 @@
+{
+    "maintainer": [
+        {
+            "display_name": "FrEeRuNnEr4EvEr",
+            "telegram": "https://t.me/FrEeRuNnEr4EvErHeLp",
+            "github": "https://github.com/LeDrew2017"
+        }
+    ],
+    "beta": false,
+    "available_versions": [
+        "sixteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Samsung Galaxy Note 10",
+    "device_display_codename": "d1",
+    "public_download": "https://get.projectmatrixx.com/folder/d1/12.x/",
+    "version": "sixteen",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}

@@ -365,6 +365,13 @@
       "active": true
     },
     {
+      "codename": "salami",
+      "vendor": "OnePlus",
+      "model": "OnePlus11",
+      "maintainer_name": "Brian_OP13",
+      "active": true
+    },
+    {
       "codename": "komodo",
       "vendor": "Google",
       "model": "Pixel 9 Pro XL",

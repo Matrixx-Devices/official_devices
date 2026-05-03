@@ -1,0 +1,21 @@
+{
+    "maintainer": [
+        {
+            "display_name": "FrEeRuNnEr4EvEr",
+            "telegram": "https://t.me/FrEeRuNnEr4EvErHeLp",
+            "github": "https://github.com/LeDrew2017"
+        }
+    ],
+    "beta": false,
+    "available_versions": [
+        "sixteen"
+    ],
+    "release": "monthly",
+    "device_display_name": "Samsung Galaxy S10e",
+    "device_display_codename": "beyond0lte",
+    "public_download": "https://get.projectmatrixx.com/folder/beyond0lte/12.x/",
+    "version": "sixteen",
+    "active": true,
+    "customRecoveryRequired": true,
+    "xda": null
+}
