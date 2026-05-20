@@ -269,6 +269,15 @@
      "XDA": "PARBINDAR@7",
      "role": "Maintainer",
      "devices": ["a51", "f41", "m31", "m31s", "m21"]
+    },
+    {
+     "name": "RubensGon",
+     "image": "https://avatars.githubusercontent.com/u/93195322?=150&v=4",
+     "github": "RubensGon",
+     "telegram": "orubensgoncalves",
+     "XDA": "RubensGon",
+     "role": "Maintainer",
+     "devices": ["rodin"]
     }
   ]
 }

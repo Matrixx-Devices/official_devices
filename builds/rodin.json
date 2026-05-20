@@ -1,0 +1,21 @@
+{
+           "maintainer": [
+        {
+            "display_name": "RubensGon",
+            "telegram": "https://t.me/matrixxrodin",
+            "github": "https://github.com/RubensGon"
+        }
+        ],
+            "beta": false,
+            "available_versions": [
+                       "sixteen"
+                                  ],
+            "release": "monthly",
+            "device_display_name": "Poco X7 Pro",
+            "device_display_codename": "rodin",
+            "public_download": "https://get.projectmatrixx.com/folder/rodin/12.x",
+            "version": "sixteen",
+            "active": true,
+            "customRecoveryRequired": true,
+            "xda": ""
+}

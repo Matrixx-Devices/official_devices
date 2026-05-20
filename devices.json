@@ -447,6 +447,13 @@
       "model": "OnePlus11 5G",
       "maintainer_name": "BrianOP13",
       "active": true
-    }   
+    },
+    {
+      "codename": "rodin",
+      "vendor": "xiaomi",
+      "model": "Poco X7 Pro",
+      "maintainer_name": "RubensGon",
+      "active": true
+    }      
   ]
 }
