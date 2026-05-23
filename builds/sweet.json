@@ -1,0 +1,21 @@
+{
+           "maintainer": [
+        {
+            "display_name": "Musafir02",
+            "telegram": "https://t.me/Musafir1875",
+            "github": "https://github.com/Musafir02"
+        }
+        ],
+            "beta": false,
+            "available_versions": [
+                       "sixteen"
+                                  ],
+            "release": "monthly",
+            "device_display_name": "Redmi Note 10 Pro",
+            "device_display_codename": "sweet",
+            "public_download": "https://get.projectmatrixx.com/folder/sweet/12.x",
+            "version": "sixteen",
+            "active": true,
+            "customRecoveryRequired": false,
+            "xda": ""
+}
