@@ -1,20 +1,20 @@
 {
     "maintainer": [
         {
-            "display_name": "No Maintainer",
-            "telegram": "",
-            "github": ""
+            "display_name": "ZeroTwo",
+            "telegram": "https://t.me/ZeroTwoBuildsSupport",
+            "github": "https://github.com/zerotwo-alt"
         }
     ],
     "beta": false,
     "available_versions": [
-        "fifteen"
+        "sixteen"
     ],
     "release": "monthly",
     "device_display_name": "Redmi Note 13 Pro 5G/Poco X6 5G",
     "device_display_codename": "garnet",
-    "public_download": "https://get.projectmatrixx.com/folder/garnet/12.x/",
-    "version": "fifteen",
+    "public_download": "https://get.projectmatrixx.org/folder/garnet/12.x",
+    "version": "sixteen",
     "active": true,
     "customRecoveryRequired": true,
     "xda": null

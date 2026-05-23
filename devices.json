@@ -172,8 +172,8 @@
       "codename": "garnet",
       "vendor": "Xiaomi",
       "model": "Redmi Note 13 Pro 5G/Poco X6 5G",
-      "maintainer_name": "No Maintainer",
-      "active": false
+      "maintainer_name": "ZeroTwo",
+      "active": true
     },
     {
       "codename": "ginkgo",

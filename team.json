@@ -278,6 +278,15 @@
      "XDA": "RubensGon",
      "role": "Maintainer",
      "devices": ["rodin"]
+    },
+   {
+    "name": "FlyingSquirrel",
+     "image": "https://avatars.githubusercontent.com/u/195561119?v=4",
+     "github": "zerotwo-alt",
+     "telegram": "Zerotwo_O1",
+     "XDA": "",
+     "role": "Maintainer",
+     "devices": ["garnet"]
     }
   ]
 }
