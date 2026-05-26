@@ -8,14 +8,16 @@
 <br>
 <summary><b>General rules:</b> :arrow_down: </summary>
 
-* All maintainers must have knowledge about source control tools such as *git* and *repo*.
-* All maintainers must release device sources **publicly** at [**Matrixx-Devices**](https://github.com/Matrixx-Devices) on Github
-* All sources must be fully synced (pushed to GitHub) **prior to** every official build release
-* Device trees can be co-maintained
-* All maintainers must test every build before release this including with testers if possible in order to avoid issues
-* If some quality requirements can’t be passed, the maintainer must provide the reason for the exception while applying for maintainer status
-* Maintainers must respect each other, any act of hate or abuse will be severely punished
-* A forum thread (usually XDA) must be made using official template and contain all the device documentation such as installation steps, download links, sources
+* All maintainers must have proper knowledge of source control tools such as git and repo.
+* Releasing at least one stable unofficial build before applying for official maintainership is mandatory.
+* Official maintainers are allowed to maintain a maximum of 2 ROMs simultaneously.
+* All device sources must be released publicly under the Matrixx-Devices organization on GitHub.
+* Sources must always be fully synced and pushed to GitHub before every official release.
+* Device trees may be co-maintained if necessary.
+* Every build must be properly tested before release, preferably with the help of testers, to avoid major issues.
+* If any quality requirement cannot be met, the maintainer must clearly explain the reason while applying.
+* Maintainers must respect fellow developers and community members. Any form of hate, toxicity, or abuse will result in strict action.
+* An official support group/channel for the device builds must be maintained by the maintainer for announcements, known issues, and user support.
 
 </details>
 
@@ -23,11 +25,11 @@
 <br>
 <summary><b>Communications :</b> :arrow_down: </summary>
 
-* The team communicates using Telegram group chat that you'll get an invite to when applying 
-* PMs should be avoided as much as possible so all users can participate in a discussion
-* Don’t spam about any ETAs, upcoming source updates or features to add
-* We encourage features to be added via pull request, so we can review code and decide to implement 
-* Feature requests should be made using *Pull Requests* with a properly prepared and **tested** commits
+* Team communication is handled mainly through Telegram group chats. Invites will be provided after acceptance.
+* Personal messages should be avoided whenever possible so discussions remain transparent and accessible to everyone.
+* Do not spam or repeatedly ask for ETAs, upcoming features, or source updates.
+* We highly encourage contributing features through properly made Pull Requests for code review and discussion.
+* All feature requests and improvements must be submitted with clean, properly tested commits.
 
 </details>
 
@@ -35,17 +37,22 @@
 <br>
 <summary><b>Git and repo:</b> :arrow_down: </summary>
 
-* Git trees should be maintained in a tidy and organized manner
-* Official release branches must be named after current Android version, e.g. Android 14 -branch_name-> 14.0, this naming is mandatory
-* In the case of incompatibility with current, already hosted device sources, maintainers will need to create a dedicated branch for their device on said repos (eg. *14.0-cepheus*)
-* Maintainers are free to create additional backup/testing branches
-* Original commit authorship must be maintained
-* Commits must preserve proper and informative naming
-* Commits must describe the change, especially reverts. Commits without proper messages are meaningless, showing that you have no actual idea what you’re doing. 
-* Reverts without a message doesn’t let others know what problem it was causing and it is generally bad for community
-* Rebasing and force-pushing is allowed as long as it doesn’t affect other users badly
-* Don’t force-push main branch of a common dt repository until consulted with all maintainers using it
-* When force-pushing a branch it is advised to create a copy of it just in case, named *'mybranch-old'* or *'mybranch-today's date'*
+* Git repositories should always be maintained in a clean, organized, and readable manner.
+* Official release branches must follow Android version naming conventions:
+   - Example: Android 14 → 14.0
+* If existing sources are incompatible, maintainers should create dedicated branches for their device:
+   - Example: 14.0-cepheus
+* Maintainers are free to create additional branches for testing or backup purposes.
+* Original commit authorship must always be preserved.
+* Commit messages must be meaningful and properly describe the changes made.
+* Revert commits must include clear explanations about why the revert was necessary.
+* Random or unclear commit messages are discouraged and reflect poor development practices.
+* Rebasing and force-pushing are allowed only when they do not negatively impact other maintainers or contributors.
+* Never force-push shared/common repositories without consulting all maintainers using them.
+* Before force-pushing, it is strongly recommended to create a backup branch such as:
+   - branch-old
+   - branch-backup
+   - branch-YYYYMMDD
 
 </details>
 
