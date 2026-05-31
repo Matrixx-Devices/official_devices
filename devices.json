@@ -454,6 +454,13 @@
       "model": "Poco X7 Pro",
       "maintainer_name": "RubensGon",
       "active": true
-    }      
+    },      
+    {
+      "codename": "Tetris",
+      "vendor": "Nothing",
+      "model": "CMF Phone 1",
+      "maintainer_name": "Anshuman X",
+      "active": true
+    }
   ]
 }
