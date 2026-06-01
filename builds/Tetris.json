@@ -13,7 +13,7 @@
 "release": "monthly",
 "device_display_name": "CMF Phone 1",
 "device_display_codename": "Tetris",
-"public_download": "",
+"public_download": "https://get.projectmatrixx.com/folder/tetris/12.x/",
 "version": "sixteen",
 "active": true,
 "customRecoveryRequired": false,
