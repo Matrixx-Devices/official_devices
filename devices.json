@@ -442,6 +442,13 @@
       "active": true
     },
     {
+      "codename": "a14x",
+      "vendor": "Samsung",
+      "model": "Samsung Galaxy A14 5G",
+      "maintainer_name": "PARBINDAR7",
+      "active": true
+    },
+    {
       "codename": "salami",
       "vendor": "OnePlus",
       "model": "OnePlus11 5G",
