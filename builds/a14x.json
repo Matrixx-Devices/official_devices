@@ -1,0 +1,21 @@
+{
+        "maintainer":[
+                {
+                        "display_name":"PARBINDAR7",
+                        "telegram":"https://t.me/Exy1330",
+                        "github":"https://github.com/Parbindar7"
+                }
+        ],
+        "beta":false,
+        "available_versions":[
+                "sixteen"
+        ],
+        "release":"monthly",
+        "device_display_name":"Samsung Galaxy A14 5G",
+        "device_display_codename":"a14x",
+        "public_download":"https://get.projectmatrixx.com/folder/a14x/12.x",
+        "version":"sixteen",
+        "active":true,
+        "customRecoveryRequired":true,
+        "xda":null
+}
