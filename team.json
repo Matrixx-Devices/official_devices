@@ -305,6 +305,15 @@
      "XDA": "VD174775",
      "role": "Maintainer",
      "devices": ["Tetris"]
+     },
+     {
+      "name": "zedisspp",
+      "image": "https://avatars.githubusercontent.com/u/195248302?v=4",
+      "github": "zedisspp",
+      "telegram": "zedisspp",
+      "XDA": "",
+      "role": "Maintainer",
+      "devices": ["bangkk"]
      }
   ]
 }
