@@ -18,14 +18,6 @@
       "devices": ["lemonade", "lemonadep", "munch", "vayu"]
     },
     {
-      "name": "RoxoR",
-      "image": "https://avatars.githubusercontent.com/u/68855313?v=4",
-      "github": "kshitij-vk",
-      "telegram": "Roxor007",
-      "XDA": "0_roxor_0.7090065",
-      "role": "Core-Member"
-    },
-    {
       "name": "AAMIR ALI",
       "image": "https://avatars.githubusercontent.com/u/78249996?v=4",
       "github": "AAMIRR-ALI",
@@ -35,11 +27,11 @@
       "devices": ["bladerunner"]
     },
     {
-      "name": "Dark Phoenix",
-      "image": "https://avatars.githubusercontent.com/u/80503611?v=4",
-      "github": "drkphnx",
-      "telegram": "darkphnx",
-      "XDA": "",
+      "name": "RoxoR",
+      "image": "https://avatars.githubusercontent.com/u/68855313?v=4",
+      "github": "kshitij-vk",
+      "telegram": "Roxor007",
+      "XDA": "0_roxor_0.7090065",
       "role": "Core-Member"
     },
     {
@@ -81,13 +73,6 @@
       "telegram": "Esma3iLMagdey",
       "XDA": "",
       "role": "Bot Developer"
-    },
-    {
-     "name": "Ritesh Sahany",
-     "image": "https://avatars.githubusercontent.com/u/108788599?v=4",
-     "github": "RiteshSahany",
-     "telegram": "RiteshSahany",
-     "role": "Website Manager"
     },
     {
       "name": "Yeab",
