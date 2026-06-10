@@ -13,7 +13,7 @@
             "release": "monthly",
             "device_display_name": "Poco X7 Pro",
             "device_display_codename": "rodin",
-            "public_download": "https://get.projectmatrixx.com/folder/rodin/12.x",
+            "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/rodin/",
             "version": "sixteen",
             "active": true,
             "customRecoveryRequired": true,
