@@ -299,6 +299,15 @@
       "XDA": "",
       "role": "Maintainer",
       "devices": ["bangkk"]
+     },
+      {
+      "name": "スレシャド",
+      "image": "https://avatars.githubusercontent.com/u/262764577?v=4",
+      "github": "Shadowwisperia",
+      "telegram": "shadowwisperia",
+      "XDA": "",
+      "role": "Maintainer",
+      "devices": ["miatoll"]
      }
   ]
 }
