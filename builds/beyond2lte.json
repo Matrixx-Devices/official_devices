@@ -13,7 +13,7 @@
     "release": "monthly",
     "device_display_name": "Samsung Galaxy S10+",
     "device_display_codename": "beyond2lte",
-    "public_download": "https://get.projectmatrixx.com/folder/beyond2lte/12.x/",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/beyond2lte",
     "version": "sixteen",
     "active": true,
     "customRecoveryRequired": true,

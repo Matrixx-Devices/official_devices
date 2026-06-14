@@ -13,7 +13,7 @@
     "release": "monthly",
     "device_display_name": "Mi 10 Lite 5G",
     "device_display_codename": "monet",
-    "public_download": "https://get.projectmatrixx.com/folder/monet/12.x/",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/monet",
     "version": "sixteen",
     "active": true,
     "customRecoveryRequired": true,

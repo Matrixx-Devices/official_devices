@@ -13,7 +13,7 @@
             "release": "monthly",
             "device_display_name": "Redmi Note 10 Pro",
             "device_display_codename": "sweet",
-            "public_download": "https://get.projectmatrixx.com/folder/sweet/12.x",
+            "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/sweet",
             "version": "sixteen",
             "active": true,
             "customRecoveryRequired": false,

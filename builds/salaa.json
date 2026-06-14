@@ -13,7 +13,7 @@
     "release": "monthly",
     "device_display_name": "Realme 7/Narzo 20 Pro/Narzo 30 4G",
     "device_display_codename": "salaa",
-    "public_download": "https://get.projectmatrixx.com/folder/salaa/12.x/",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/salaa",
     "version": "sixteen",
     "active": true,
     "customRecoveryRequired": true,

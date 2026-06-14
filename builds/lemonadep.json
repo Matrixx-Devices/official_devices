@@ -13,8 +13,7 @@
     "release": "monthly",
     "device_display_name": "OnePlus 9 Pro",
     "device_display_codename": "lemonadep",
-    "public_download": 
-"https://get.projectmatrixx.com/folder/lemonadep/12.x/",
+    "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/lemonadep",
     "version": "sixteen",
     "active": true,
     "customRecoveryRequired": true,

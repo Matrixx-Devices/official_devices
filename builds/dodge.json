@@ -13,7 +13,7 @@
             "release": "monthly",
             "device_display_name": "OnePlus 13",
             "device_display_codename": "dodge",
-            "public_download": "https://get.projectmatrixx.com/folder/dodge/12.x",
+            "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/dodge",
             "version": "sixteen",
             "active": true,
             "customRecoveryRequired": false,
