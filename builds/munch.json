@@ -1,9 +1,9 @@
 {
             "maintainer": [
         {
-            "display_name": "Mrick343",
-            "telegram": "https://t.me/Mrick343",
-            "github": "https://github.com/Mrick343"
+            "display_name": "LordPutin",
+            "telegram": "https://t.me/Lordputin8",
+            "github": "https://github.com/Lordputin404"
         }
         ],
             "beta": false,
@@ -13,7 +13,7 @@
             "release": "monthly",
             "device_display_name": "Xiaomi POCO F4 5G",
             "device_display_codename": "munch",
-            "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/munch",
+            "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/munch/12.4",
             "version": "sixteen",
             "active": true,
             "customRecoveryRequired": true,

@@ -15,7 +15,7 @@
       "telegram": "Mrick343",
       "XDA": "mrick343.12517809",
       "role": "Founder",
-      "devices": ["lemonade", "lemonadep", "munch", "vayu"]
+      "devices": ["lemonade", "lemonadep", "vayu"]
     },
     {
       "name": "AAMIR ALI",
@@ -308,6 +308,15 @@
       "XDA": "",
       "role": "Maintainer",
       "devices": ["miatoll"]
+     },
+     {
+            "name": "LordPutin",
+            "image": "https://avatars.githubusercontent.com/u/93831599?v=4",
+            "github": "Lordputin404",
+            "telegram": "Lordputin8",
+            "XDA": "",
+            "role": "Maintainer",
+            "devices": ["munch"]
      }
   ]
 }
