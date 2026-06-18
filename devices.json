@@ -5,7 +5,7 @@
       "vendor": "Xiaomi",
       "model": "POCO F1",
       "maintainer_name": "No Maintainer",
-      "active": true
+      "active": false
     },
     {
       "codename": "alioth",
@@ -25,8 +25,8 @@
       "codename": "stone",
       "vendor": "Xiaomi",
       "model": "Redmi Note 12 5G / POCO X5 5G",
-      "maintainer_name": ["Khnome", "Mayuresh"],
-      "active": true
+      "maintainer_name": ["No Maintainer"],
+      "active": false
     },
     {
       "codename": "veux",

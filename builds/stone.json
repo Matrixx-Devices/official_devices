@@ -1,9 +1,9 @@
 {
     "maintainer": [
         {
-            "display_name": ["Khnome", "Mayuresh"],
-            "telegram": "https://t.me/team_buildbotchat",
-            "github": "https://github.com/Khnome"
+            "display_name": ["No Maintainer"],
+            "telegram": "",
+            "github": ""
         }
     ],
     "beta": false,
@@ -15,7 +15,7 @@
     "device_display_codename": "stone",
     "public_download": "https://sourceforge.net/projects/projectmatrixx/files/Android-16/stone",
     "version": "sixteen",
-    "active": true,
+    "active": false,
     "customRecoveryRequired": true,
     "xda": null
 }
