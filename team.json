@@ -298,6 +298,15 @@
             "XDA": "",
             "role": "Maintainer",
             "devices": ["munch"]
+     },
+     {
+        "name": "ZeroSquared",
+        "image": "https://avatars.githubusercontent.com/C1014",
+        "github": "C1014",
+        "telegram": "z2stuffs",
+        "XDA": null,
+        "role": "Maintainer",
+        "devices": ["giulia", "giuliac"]
      }
   ]
 }

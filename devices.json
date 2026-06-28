@@ -468,6 +468,20 @@
       "model": "CMF Phone 1",
       "maintainer_name": "Anshuman X",
       "active": true
+    },
+    {
+      "codename": "giulia",
+      "vendor": "OnePlus",
+      "model": "OnePlus 13R",
+      "maintainer_name": "ZeroSquared",
+      "active": true
+    },
+    {
+      "codename": "giuliac",
+      "vendor": "OnePlus",
+      "model": "OnePlus Ace 5",
+      "maintainer_name": "ZeroSquared",
+      "active": true
     }
   ]
 }
